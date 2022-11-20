@@ -14,3 +14,5 @@ jobs:
         uses: simonecorsi/mawesome@latest
         with:
           api-token: ${{ secrets.API_TOKEN }}
+          github-email: "actions@users.noreply.github.com"
+          github-name: "Github Action"
