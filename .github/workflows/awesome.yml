@@ -13,6 +13,7 @@ jobs:
       - name: Awesome generator
         uses: simonecorsi/mawesome@latest
         with:
+          template-path: "template/README.ejs"
           api-token: ${{ secrets.API_TOKEN }}
           github-email: "actions@users.noreply.github.com"
           github-name: "Github Action"
