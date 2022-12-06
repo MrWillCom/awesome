@@ -136,7 +136,7 @@
 
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
-*   [mdn/mdn](https://github.com/mdn/mdn) - Contributors handbook that governs the MDN GitHub organization
+*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
 
 *   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
 
