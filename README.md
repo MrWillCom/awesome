@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -19,7 +20,6 @@
 *   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
 *   [Markdown](#markdown)
-*   [HTML](#html)
 *   [C#](#c-1)
 *   [Handlebars](#handlebars)
 *   [AutoIt](#autoit)
@@ -47,6 +47,32 @@
 *   [Standard ML](#standard-ml)
 *   [Assembly](#assembly)
 *   [CMake](#cmake)
+
+## HTML
+
+*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
+
+*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
+
+*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
+
+*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
+*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
 
 ## Go
 
@@ -246,8 +272,6 @@
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
-*   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-
 ## JavaScript
 
 *   [kevva/download](https://github.com/kevva/download) - Download and extract files
@@ -438,7 +462,7 @@
 
 *   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 
-*   [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple\_heart:
+*   [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple\_heart:
 
 *   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
@@ -815,30 +839,6 @@
 *   [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-
-## HTML
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
-
-*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
-
-*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-
-*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
-
-*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
-*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
 
 ## C\#
 
