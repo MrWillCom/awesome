@@ -4,22 +4,22 @@
 
 ## Table of Contents
 
-*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
+*   [C](#c)
+*   [Rust](#rust)
+*   [CSS](#css)
+*   [C++](#c-1)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
-*   [CSS](#css)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Go](#go)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [Batchfile](#batchfile)
 *   [Java](#java)
 *   [Shell](#shell)
-*   [C](#c-2)
 *   [EJS](#ejs)
 *   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
@@ -50,59 +50,13 @@
 *   [Haskell](#haskell)
 *   [Fluent](#fluent)
 
-## C++
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
-*   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-*   [aeilot/lsnotes](https://github.com/aeilot/lsnotes) - Add a description to your directories!
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-
-*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-
-*   [aeilot/ProblemSet](https://github.com/aeilot/ProblemSet) - My OI Problems
-
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
-
-*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-
-*   [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
-
-*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [gltina/marksentence](https://github.com/gltina/marksentence) - 一个标记托福考试听力句子的工具（精听工具）
-
-*   [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
-
-*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
 ## TypeScript
+
+*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 小程序——元素周期表Pro，高颜值化学必备小工具
+
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+
+*   [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
 
 *   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 
@@ -324,15 +278,9 @@
 
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
-*   [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
-
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-*   [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
-
-*   [colodenn/personal-website](https://github.com/colodenn/personal-website) - :boy: I guess this is my website. Take a closer look and maybe you will find a hidden egg but better watch out or Chuck Norris will roundhouse kick you!
-
 ## JavaScript
+
+*   [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 
@@ -640,7 +588,167 @@
 
 *   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 
-*   [inns/mak-mini](https://github.com/inns/mak-mini) - A (small) piece of paper.
+## C
+
+*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
+
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+*   [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
+
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+
+*   [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
+
+*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+
+*   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+*   [sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Manage the desktop wallpaper on Windows
+
+*   [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
+
+*   [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
+
+*   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+
+*   [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
+
+*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
+
+*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+## Rust
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+
+## CSS
+
+*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [evvoon/stopwatch](https://github.com/evvoon/stopwatch) -
+
+*   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
+
+*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
+
+*   [tobealive/logseq-allday-theme](https://github.com/tobealive/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
+
+*   [mimeku/hexo-theme-cupertino](https://github.com/mimeku/hexo-theme-cupertino) - Update hexo-theme-cupertino
+
+*   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
+
+*   [varkai/hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
+
+*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
+
+*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
+
+*   [rapiz1/typography](https://github.com/rapiz1/typography) - A Hexo theme focused on clean format and elegant reading experience.
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode) - The Dark Mode for GitHub.com
+
+*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
+
+*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+*   [elitistsnob/typora-gitlab-theme](https://github.com/elitistsnob/typora-gitlab-theme) - A Typora markdown editor theme for those who want the look and feel of Gitlab's familiar markdown style.
+
+## C++
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [aeilot/lsnotes](https://github.com/aeilot/lsnotes) - Add a description to your directories!
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+
+*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
+
+*   [aeilot/ProblemSet](https://github.com/aeilot/ProblemSet) - My OI Problems
+
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+
+*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+
+*   [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+
+*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [gltina/marksentence](https://github.com/gltina/marksentence) - 一个标记托福考试听力句子的工具（精听工具）
+
+*   [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
+
+*   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 ## Python
 
@@ -749,46 +857,6 @@
 *   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 
 *   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-## CSS
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [evvoon/stopwatch](https://github.com/evvoon/stopwatch) -
-
-*   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
-
-*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
-
-*   [tobealive/logseq-allday-theme](https://github.com/tobealive/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
-
-*   [mimeku/hexo-theme-cupertino](https://github.com/mimeku/hexo-theme-cupertino) - Update hexo-theme-cupertino
-
-*   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
-
-*   [varkai/hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
-
-*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
-
-*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
-
-*   [rapiz1/typography](https://github.com/rapiz1/typography) - A Hexo theme focused on clean format and elegant reading experience.
-
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-
-*   [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode) - The Dark Mode for GitHub.com
-
-*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
-
-*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
-*   [elitistsnob/typora-gitlab-theme](https://github.com/elitistsnob/typora-gitlab-theme) - A Typora markdown editor theme for those who want the look and feel of Gitlab's familiar markdown style.
 
 ## miscellaneous
 
@@ -934,8 +1002,6 @@
 
 *   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 
-*   [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
-
 ## Go
 
 *   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -972,36 +1038,6 @@
 
 *   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
-## Rust
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-
 ## HTML
 
 *   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
@@ -1027,8 +1063,6 @@
 *   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
 *   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
-
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Batchfile
 
@@ -1107,40 +1141,6 @@
 *   [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 
 *   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-
-## C
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
-*   [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
-
-*   [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
-
-*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-
-*   [Kitware/CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
-
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-
-*   [sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Manage the desktop wallpaper on Windows
-
-*   [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
-
-*   [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
-
-*   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-
-*   [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - A small C library for building user interfaces with C, XML and CSS.
-
-*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## EJS
 
