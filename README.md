@@ -743,7 +743,7 @@
 
 ## Assembly
 
-*   [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
+*   [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 
 *   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
 
