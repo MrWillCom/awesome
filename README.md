@@ -5,6 +5,8 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Kotlin](#kotlin)
@@ -14,7 +16,6 @@
 *   [Swift](#swift)
 *   [C](#c)
 *   [C#](#c-1)
-*   [Java](#java)
 *   [Vue](#vue)
 *   [Rust](#rust)
 *   [C++](#c-2)
@@ -30,7 +31,6 @@
 *   [Handlebars](#handlebars)
 *   [AutoIt](#autoit)
 *   [PHP](#php)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [V](#v)
 *   [Ruby](#ruby)
 *   [PowerShell](#powershell)
@@ -50,6 +50,10 @@
 *   [CMake](#cmake)
 
 ## TypeScript
+
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+
+*   [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 
 *   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
@@ -291,7 +295,59 @@
 
 *   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 
-*   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
+## Jupyter Notebook
+
+*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  3,000,000+ Unsplash images made available for research and machine learning
+
+*   [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022) - Hacktoberfest 2022 OPEN FIRST Pull Request - FREE T-SHIRT🎉
+
+*   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
+
+*   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
+
+*   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
+
+## Java
+
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
+
+*   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+
+*   [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+
+*   [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - (WIP) A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
+
+*   [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
+
+*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+
+*   [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+
+*   [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
+
+*   [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
+
+*   [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) - A Minecraft Fabric mod that that aims to add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.
+
+*   [MrShieh-X/console-minecraft-launcher](https://github.com/MrShieh-X/console-minecraft-launcher) - A Launcher for Minecraft Java Edition Running On The Console
+
+*   [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+
+*   [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
+
+*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+*   [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
+
+*   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
 
 ## JavaScript
 
@@ -607,10 +663,6 @@
 
 *   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
-
 ## CSS
 
 *   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -894,48 +946,6 @@
 *   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-## Java
-
-*   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
-
-*   [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
-
-*   [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - (WIP) A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
-
-*   [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
-
-*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
-
-*   [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-
-*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
-
-*   [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
-
-*   [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
-
-*   [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) - A Minecraft Fabric mod that that aims to add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.
-
-*   [MrShieh-X/console-minecraft-launcher](https://github.com/MrShieh-X/console-minecraft-launcher) - A Launcher for Minecraft Java Edition Running On The Console
-
-*   [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
-
-*   [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
-
-*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-
-*   [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
-
-*   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
-
-*   [devallever/TranslationTextOpenSource](https://github.com/devallever/TranslationTextOpenSource) - 介绍 【文本翻译器】是一款免费的简洁实用的翻译软件。文本翻译器应用程序完全免费，可以非常快速翻译您的单词，帮助您与外国人交流。文本翻译器适用于旅行者、学生、商人和其他语言爱好者，使用文本翻译器可以轻松了解其他语言。文本翻译器支持多国语言，全新领先的翻译引擎，让各种变得更加可靠有保证。界面设计简洁、优雅，体积小巧，但是功能很强大哦。赶快下载来试试吧~  功能特点： \*【词典解析】除了基本的翻译外，提供更详细的词典功能，词性分类 \*【多语言】目前支持主流语言：中文，中文繁体，英语，日语，法语，德语 \*【单词本】收藏喜欢的单词 \*【历史记录】记录翻译记录 \*【离线翻译】如果已经翻译过的即使没有网络也能翻译 \*【数据备份和恢复】备份历史翻译记录和恢复记录 \*【自动朗读】翻译后为您朗读 \*【自动复制】将翻译文本自动复制到剪贴板 \*【全局复制查词】在任何界面点复制就能查单词 \*【免费】使用功能过程中完全免费 \*【界面简洁】界面设计优雅、简洁
 
 ## Vue
 
@@ -1222,16 +1232,6 @@
 *   [stevenlei/codingstarter-forum](https://github.com/stevenlei/codingstarter-forum) - A forum created with Laravel, Socket.io, and Tailwind CSS. Live site on https://codingstarter.com
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-
-## Jupyter Notebook
-
-*   [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022) - Hacktoberfest 2022 OPEN FIRST Pull Request - FREE T-SHIRT🎉
-
-*   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
-
-*   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
-
-*   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 
 ## V
 
