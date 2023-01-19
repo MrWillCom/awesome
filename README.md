@@ -551,7 +551,7 @@
 
 *   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 
-*   [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple\_heart:
+*   [RealPeha/This-Repo-Has-1759-Stars](https://github.com/RealPeha/This-Repo-Has-1759-Stars) - Yes, it's true :purple\_heart:
 
 *   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
