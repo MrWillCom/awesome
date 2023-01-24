@@ -1375,7 +1375,7 @@
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open-source modification of Windows 10, designed to optimize performance and latency.
 
 ## EJS
 
