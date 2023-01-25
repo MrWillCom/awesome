@@ -11,7 +11,6 @@
 *   [Java](#java)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
-*   [Rust](#rust)
 *   [Lua](#lua)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -22,6 +21,7 @@
 *   [Assembly](#assembly)
 *   [C](#c-1)
 *   [C#](#c-2)
+*   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -447,6 +447,8 @@
 
 *   [colodenn/personal-website](https://github.com/colodenn/personal-website) - :boy: I guess this is my website. Take a closer look and maybe you will find a hidden egg but better watch out or Chuck Norris will roundhouse kick you!
 
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
@@ -462,6 +464,8 @@
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 
 *   [vercel/serve-handler](https://github.com/vercel/serve-handler) - The foundation of `serve`
+
+*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 
 *   [BlueSky-07/Shuang](https://github.com/BlueSky-07/Shuang) - :pencil2: 双拼练习
 
@@ -689,7 +693,7 @@
 
 *   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 
-*   [RealPeha/This-Repo-Has-1758-Stars](https://github.com/RealPeha/This-Repo-Has-1758-Stars) - Yes, it's true :purple\_heart:
+*   [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple\_heart:
 
 *   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
@@ -914,40 +918,6 @@
 *   [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
-
-## Rust
-
-*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 
 ## Lua
 
@@ -1251,6 +1221,38 @@
 
 *   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
+## Rust
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+
 ## Markdown
 
 *   [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？
@@ -1454,8 +1456,6 @@
 ## Less
 
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
-
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
 *   [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 
