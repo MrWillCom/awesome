@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [CSS](#css)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Java](#java)
@@ -19,8 +20,7 @@
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
 *   [Assembly](#assembly)
-*   [C](#c-1)
-*   [C#](#c-2)
+*   [C](#c-2)
 *   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [miscellaneous](#miscellaneous)
@@ -50,6 +50,84 @@
 *   [CMake](#cmake)
 *   [Haskell](#haskell)
 *   [Fluent](#fluent)
+
+## C\#
+
+*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
+
+*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 唷，找本堂主有何贵干呀？
+
+*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
+
+*   [MarcAnt01/Fluent-Screen-Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) - An award-winning minimal screen recorder for Windows
+
+*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+
+*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长
+
+*   [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
+
+*   [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
+
+*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+
+*   [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+
+*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
+
+*   [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client
+
+*   [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
+
+*   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+
+*   [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
+
+*   [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
+
+*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
+
+*   [Richasy/Work-Timer](https://github.com/Richasy/Work-Timer) - 正向计时器
+
+*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
+
+*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
+
+*   [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) - This app demonstrates the controls available in WinUI and the Fluent Design System.
+
+*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+
+*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
+
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+
+*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+
+*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+
+*   [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
+
+*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
+
+*   [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## CSS
 
@@ -693,7 +771,7 @@
 
 *   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 
-*   [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple\_heart:
+*   [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple\_heart:
 
 *   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
@@ -1147,80 +1225,6 @@
 
 *   [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 
-## C\#
-
-*   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-
-*   [MarcAnt01/Fluent-Screen-Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) - An award-winning minimal screen recorder for Windows
-
-*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-
-*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长
-
-*   [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
-
-*   [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
-
-*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
-
-*   [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
-*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
-
-*   [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client
-
-*   [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
-
-*   [he55/DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-
-*   [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
-
-*   [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
-
-*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
-
-*   [Richasy/Work-Timer](https://github.com/Richasy/Work-Timer) - 正向计时器
-
-*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
-
-*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
-
-*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-
-*   [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) - This app demonstrates the controls available in WinUI and the Fluent Design System.
-
-*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-
-*   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
-
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
-
-*   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-
-*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-
-*   [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
-
-*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
-
-*   [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
 ## Rust
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -1336,8 +1340,6 @@
 *   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [cycz/jdBuyMask](https://github.com/cycz/jdBuyMask) - 祝大家抗疫成功
 
 ## HTML
 
@@ -1456,8 +1458,6 @@
 ## Less
 
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
-
-*   [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 
 ## Clojure
 
