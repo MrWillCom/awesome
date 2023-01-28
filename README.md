@@ -46,7 +46,6 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
-*   [Standard ML](#standard-ml)
 *   [CMake](#cmake)
 *   [Haskell](#haskell)
 *   [Fluent](#fluent)
@@ -1327,6 +1326,8 @@
 
 *   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
+*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
+
 *   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
 
 *   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -1526,10 +1527,6 @@
 ## Vim Script
 
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
-## Standard ML
-
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## CMake
 
