@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Haskell](#haskell)
 *   [C#](#c)
 *   [CSS](#css)
 *   [C++](#c-1)
@@ -47,8 +48,13 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
-*   [Haskell](#haskell)
 *   [Fluent](#fluent)
+
+## Haskell
+
+*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## C\#
 
@@ -770,7 +776,7 @@
 
 *   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 
-*   [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple\_heart:
+*   [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple\_heart:
 
 *   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
@@ -1374,8 +1380,6 @@
 
 *   [MicrosoftEdge/MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) - Home for explainer documents originated by the Microsoft Edge team
 
-*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
-
 ## Batchfile
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -1531,10 +1535,6 @@
 ## CMake
 
 *   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-
-## Haskell
-
-*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Fluent
 
