@@ -4,8 +4,10 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [TypeScript](#typescript)
+*   [Dart](#dart)
+*   [Rust](#rust)
+*   [Vue](#vue)
 *   [Haskell](#haskell)
 *   [C#](#c)
 *   [CSS](#css)
@@ -22,7 +24,6 @@
 *   [Shell](#shell)
 *   [Assembly](#assembly)
 *   [C](#c-2)
-*   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
@@ -40,7 +41,6 @@
 *   [Less](#less)
 *   [Clojure](#clojure)
 *   [Stylus](#stylus)
-*   [Dart](#dart)
 *   [AsciiDoc](#asciidoc)
 *   [SCSS](#scss)
 *   [Vim script](#vim-script)
@@ -50,29 +50,9 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
-## Vue
-
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-
-*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-
-*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
-*   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
-
-*   [xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar) - A journals calendar for Logseq.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [qier222/currency-app](https://github.com/qier222/currency-app) - The Ultimate Currency Converter 🤑
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
-
-*   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
-
 ## TypeScript
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 *   [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 
@@ -374,6 +354,84 @@
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
+## Dart
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+
+*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
+
+*   [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
+
+*   [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
+
+*   [rikulo/socket.io-client-dart](https://github.com/rikulo/socket.io-client-dart) - socket.io-client-dart: Dartlang port of socket.io-client https://github.com/socketio/socket.io-client
+
+*   [maoqitian/flutter\_wanandroid](https://github.com/maoqitian/flutter_wanandroid) - :pizza:让你随时随地都能愉快学习、进阶Android技术的跨平台WanAndroid客户端。Android、ios完美运行，主题切换，统一数据加载封装，功能丰富完整、适合日常学习和使用。同款Java版本：https://github.com/maoqitian/MaoWanAndoidClient
+
+*   [OldMetalmind/cloom\_clock](https://github.com/OldMetalmind/cloom_clock) - My participation on the Flutter Clock Challenge of 2020 with Francisco Frutuoso design
+
+*   [miickel/flutter\_particle\_clock](https://github.com/miickel/flutter_particle_clock) - The Grand Prize-winning entry of the #FlutterClock challenge.
+
+*   [fmtjava/Flutter\_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer) - Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!
+
+*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
+
+## Rust
+
+*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+
+## Vue
+
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+
+*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+
+*   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
+
+*   [xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar) - A journals calendar for Logseq.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [qier222/currency-app](https://github.com/qier222/currency-app) - The Ultimate Currency Converter 🤑
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
+
+*   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
+
 ## Haskell
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
@@ -455,8 +513,6 @@
 *   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 
 *   [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 
 ## CSS
 
@@ -924,7 +980,7 @@
 
 *   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 源代码。
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。
 
 *   [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
 
@@ -1017,8 +1073,6 @@
 *   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 
 *   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 ## Objective-C
 
@@ -1234,38 +1288,6 @@
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
-## Rust
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-
 ## Markdown
 
 *   [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？
@@ -1475,28 +1497,6 @@
 ## Stylus
 
 *   [aeilot/hexo-theme-paperwhite](https://github.com/aeilot/hexo-theme-paperwhite) - A minimalist theme
-
-## Dart
-
-*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
-
-*   [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
-
-*   [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
-
-*   [rikulo/socket.io-client-dart](https://github.com/rikulo/socket.io-client-dart) - socket.io-client-dart: Dartlang port of socket.io-client https://github.com/socketio/socket.io-client
-
-*   [maoqitian/flutter\_wanandroid](https://github.com/maoqitian/flutter_wanandroid) - :pizza:让你随时随地都能愉快学习、进阶Android技术的跨平台WanAndroid客户端。Android、ios完美运行，主题切换，统一数据加载封装，功能丰富完整、适合日常学习和使用。同款Java版本：https://github.com/maoqitian/MaoWanAndoidClient
-
-*   [OldMetalmind/cloom\_clock](https://github.com/OldMetalmind/cloom_clock) - My participation on the Flutter Clock Challenge of 2020 with Francisco Frutuoso design
-
-*   [miickel/flutter\_particle\_clock](https://github.com/miickel/flutter_particle_clock) - The Grand Prize-winning entry of the #FlutterClock challenge.
-
-*   [fmtjava/Flutter\_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer) - Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!
-
-*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
-
-*   [devefy/Flutter-Story-App-UI](https://github.com/devefy/Flutter-Story-App-UI) -
 
 ## AsciiDoc
 
