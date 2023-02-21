@@ -1004,7 +1004,7 @@
 
 *   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 \[FREE] Tailwind CSS components for marketing, e-commerce and application UI with support for dark mode, Alpine JS and RTL direction ✨
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - 🚀 \[FREE] Tailwind CSS components for marketing, e-commerce and application UI with optional support for Alpine JS, RTL and dark mode
 
 *   [CLCK0622/ai-program](https://github.com/CLCK0622/ai-program) - A starter AI project using TensorFlow Mobilenet.
 
