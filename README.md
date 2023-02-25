@@ -410,6 +410,8 @@
 
 *   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
 
+*   [devallever/TranslationTextOpenSource](https://github.com/devallever/TranslationTextOpenSource) - 介绍 【文本翻译器】是一款免费的简洁实用的翻译软件。文本翻译器应用程序完全免费，可以非常快速翻译您的单词，帮助您与外国人交流。文本翻译器适用于旅行者、学生、商人和其他语言爱好者，使用文本翻译器可以轻松了解其他语言。文本翻译器支持多国语言，全新领先的翻译引擎，让各种变得更加可靠有保证。界面设计简洁、优雅，体积小巧，但是功能很强大哦。赶快下载来试试吧~  功能特点： \*【词典解析】除了基本的翻译外，提供更详细的词典功能，词性分类 \*【多语言】目前支持主流语言：中文，中文繁体，英语，日语，法语，德语 \*【单词本】收藏喜欢的单词 \*【历史记录】记录翻译记录 \*【离线翻译】如果已经翻译过的即使没有网络也能翻译 \*【数据备份和恢复】备份历史翻译记录和恢复记录 \*【自动朗读】翻译后为您朗读 \*【自动复制】将翻译文本自动复制到剪贴板 \*【全局复制查词】在任何界面点复制就能查单词 \*【免费】使用功能过程中完全免费 \*【界面简洁】界面设计优雅、简洁
+
 ## JavaScript
 
 *   [Hsiao-Feng/Periodic-Table](https://github.com/Hsiao-Feng/Periodic-Table) - HTML5 3D 科技风格元素周期表。
@@ -1240,8 +1242,6 @@
 
 *   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
-
 *   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
 
 *   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -1254,7 +1254,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket::sparkles: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. 😄 Cut, copy, and paste anything, anywhere, all from the terminal!
 
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
