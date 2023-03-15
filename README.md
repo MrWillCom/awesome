@@ -1288,7 +1288,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, anytime, all from the terminal! 😄
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anytime, anywhere, all from the terminal! 😄
 
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
