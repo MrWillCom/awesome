@@ -1358,7 +1358,7 @@
 
 *   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
 
-*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
+*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme.
 
 *   [tobealive/logseq-allday-theme](https://github.com/tobealive/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
 
