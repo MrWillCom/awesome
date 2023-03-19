@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
@@ -51,6 +51,50 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
+
+## Rust
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [IcyStudio/TeleGPT](https://github.com/IcyStudio/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
+
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Manage the desktop wallpaper on Windows
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## JavaScript
 
@@ -381,50 +425,6 @@
 *   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
 *   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-
-*   [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black\_heart: Create and share beautiful images of your source code
-
-## Rust
-
-*   [IcyStudio/TeleGPT](https://github.com/IcyStudio/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
-
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-
-*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Manage the desktop wallpaper on Windows
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## Python
 
@@ -1288,7 +1288,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗿𝗲𝗮𝗹𝗹𝘆 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! 😄
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
 
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
