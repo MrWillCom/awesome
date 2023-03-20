@@ -364,7 +364,7 @@
 
 *   [fatiherikli/brainfuck-visualizer](https://github.com/fatiherikli/brainfuck-visualizer) - Javascript Brainfuck Interpreter and Visualizer. Built with Backbone.js
 
-*   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 *   [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 
@@ -1288,7 +1288,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way. Cut, copy, and paste anything, anytime, anywhere! Say adiós to ugly aliases and one-liners. 😄
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way! Cut, copy, and paste anything, anytime, anywhere. 😄
 
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
