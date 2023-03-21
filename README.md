@@ -98,7 +98,7 @@
 
 ## JavaScript
 
-*   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - BingGPT desktop application (Windows, macOS and Linux)
+*   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 
 *   [doodlewind/nativebird](https://github.com/doodlewind/nativebird) - 🐦 Bluebird alternative within ~200 loc
 
