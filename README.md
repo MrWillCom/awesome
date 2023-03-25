@@ -692,7 +692,7 @@
 
 *   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 
