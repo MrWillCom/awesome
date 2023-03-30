@@ -54,6 +54,8 @@
 
 ## Rust
 
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 *   [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
@@ -872,8 +874,6 @@
 
 *   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  3,000,000+ Unsplash images made available for research and machine learning
 
-*   [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022) - Hacktoberfest 2022 OPEN FIRST Pull Request - FREE T-SHIRT🎉
-
 *   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 
 *   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
@@ -1050,7 +1050,7 @@
 
 *   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
 
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 *   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 
@@ -1204,8 +1204,6 @@
 
 *   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
 ## miscellaneous
 
 *   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -1293,6 +1291,8 @@
 *   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 *   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
+
+*   [ossamamehmood/Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) - Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉
 
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
 
