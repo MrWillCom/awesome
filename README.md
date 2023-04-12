@@ -112,7 +112,7 @@
 
 *   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
-*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme。
+*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme。 目前正在适配 React-Native 转换移动端 SPA。
 
 *   [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 
@@ -1280,7 +1280,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy :rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
