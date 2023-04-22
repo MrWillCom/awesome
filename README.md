@@ -1280,7 +1280,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
@@ -1422,7 +1422,7 @@
 
 *   [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 
-*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 
 ## Assembly
 
