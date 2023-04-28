@@ -1280,7 +1280,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The advanced external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your advanced second brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
