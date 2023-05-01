@@ -464,7 +464,7 @@
 
 *   [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 
@@ -1280,7 +1280,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your advanced second brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new second brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
