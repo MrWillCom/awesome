@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Objective-C](#objective-c)
-*   [TypeScript](#typescript)
 *   [SCSS](#scss)
 *   [Rust](#rust)
 *   [Swift](#swift)
@@ -51,6 +51,322 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
+
+## TypeScript
+
+*   [vercel-labs/react-tweet](https://github.com/vercel-labs/react-tweet) - Embedded and static tweets for React applications
+
+*   [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel theme for VSCode/VSCodium icons
+
+*   [ryanccn/olek](https://github.com/ryanccn/olek) - Status page.
+
+*   [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
+
+*   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+
+*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+
+*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+
+*   [yoyurec/logseq-awesome-links](https://github.com/yoyurec/logseq-awesome-links) - ⭐ Favicons for external links, page icons for internal. Logseq pluign
+
+*   [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
+
+*   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
+
+*   [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
+
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
+
+*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+
+*   [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+
+*   [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+
+*   [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
+
+*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+
+*   [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+
+*   [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
+
+*   [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+
+*   [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
+
+*   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+
+*   [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
+
+*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
+
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+
+*   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+
+*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme。 目前正在适配 React-Native 转换移动端 SPA。
+
+*   [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
+
+*   [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
+
+*   [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 大型网络游戏服务器加强插件，增添各种~~炫酷魔法~~。
+
+*   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+
+*   [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
+
+*   [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+
+*   [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+
+*   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
+
+*   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+
+*   [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+
+*   [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+
+*   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
+*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
+
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+*   [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
+
+*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
+
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+
+*   [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
+
+*   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
+
+*   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
+
+*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
+
+*   [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+
+*   [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
+
+*   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+
+*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
+
+*   [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
+
+*   [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode) - A stylish theme inspired by Vercel Theme ▲ and One Dark Pro 🎨.
+
+*   [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
+
+*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+
+*   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+
+*   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+
+*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+
+*   [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+
+*   [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+
+*   [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+
+*   [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
+
+*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+
+*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+
+*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
+
+*   [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
+
+*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
+
+*   [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode/VSCodium
+
+*   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
+
+*   [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped
+
+*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
+
+*   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+
+*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
+
+*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
+*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+
+*   [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage.
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
+
+*   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+
+*   [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
+
+*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
+
+*   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
+
+*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+
+*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+*   [ahonn/logseq-plugin-todo](https://github.com/ahonn/logseq-plugin-todo) - A simple to-do list plugin for logseq
+
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+
+*   [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
+
+*   [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar for logseq
+
+*   [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [pengx17/logseq-plugin-link-preview](https://github.com/pengx17/logseq-plugin-link-preview) - Preview links in logseq
+
+*   [antfu/vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
+
+*   [seo-rii/electron-acrylic-window](https://github.com/seo-rii/electron-acrylic-window) - Add acrylic effect to your electron application
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [unix/unix.bio](https://github.com/unix/unix.bio) - My static blog template.
+
+*   [unix/secret](https://github.com/unix/secret) -
+
+*   [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
+
+*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
+
+*   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
+
+*   [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation \[WIP]
+
+*   [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
+
+*   [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
+
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+
+*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+
+*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+
+*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+
+*   [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+
+*   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+
+*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+
+*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+
+*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+
+*   [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic emulator that connects to Apple Music and Spotify. Built with React & Styled Components
+
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+
+*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+
+*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
+
+*   [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) -
+
+*   [tancredi/fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
+
+*   [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
+
+*   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+
+*   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+
+*   [rfoel/use-prefers-color-scheme](https://github.com/rfoel/use-prefers-color-scheme) - React hook for determining the preferred color scheme
+
+*   [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
+
+*   [renzholy/mongood](https://github.com/renzholy/mongood) - A MongoDB GUI with Fluent Design
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+
+*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
+
+*   [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
+
+*   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
+
+*   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+
+*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
+
+*   [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
+
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and you name it compatible.
+
+*   [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
+
+*   [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
+
+*   [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+
+*   [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
+
+*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+*   [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
+
+*   [Ovilia/2019-typography-calendar](https://github.com/Ovilia/2019-typography-calendar) - 2019 字体日历 App
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+
+*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 ## Python
 
@@ -444,320 +760,6 @@
 
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 
-## TypeScript
-
-*   [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel theme for VSCode/VSCodium icons
-
-*   [ryanccn/olek](https://github.com/ryanccn/olek) - Status page.
-
-*   [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
-
-*   [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-
-*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-
-*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
-
-*   [yoyurec/logseq-awesome-links](https://github.com/yoyurec/logseq-awesome-links) - ⭐ Favicons for external links, page icons for internal. Logseq pluign
-
-*   [antonreshetov/image-optimizer](https://github.com/antonreshetov/image-optimizer) - A free and open source tool for optimizing images and vector graphics.
-
-*   [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
-
-*   [Grsmto/simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.
-
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
-
-*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-
-*   [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
-
-*   [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-
-*   [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
-
-*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
-
-*   [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-
-*   [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
-
-*   [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
-
-*   [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
-
-*   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-
-*   [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
-
-*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
-
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-
-*   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-
-*   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme。 目前正在适配 React-Native 转换移动端 SPA。
-
-*   [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
-
-*   [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
-
-*   [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 大型网络游戏服务器加强插件，增添各种~~炫酷魔法~~。
-
-*   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
-
-*   [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
-
-*   [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-
-*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-
-*   [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-
-*   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
-
-*   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-
-*   [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-
-*   [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
-
-*   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-
-*   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
-
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-
-*   [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
-
-*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
-
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
-
-*   [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
-
-*   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-
-*   [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-
-*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
-
-*   [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-
-*   [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
-
-*   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-
-*   [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
-
-*   [willofindie/vscode-cssvar](https://github.com/willofindie/vscode-cssvar) - VSCode extension to support CSS Variables Intellisense
-
-*   [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode) - A stylish theme inspired by Vercel Theme ▲ and One Dark Pro 🎨.
-
-*   [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
-
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-
-*   [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
-
-*   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
-*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
-
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-
-*   [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
-
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-
-*   [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
-
-*   [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-
-*   [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
-
-*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
-
-*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
-
-*   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
-
-*   [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
-
-*   [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-
-*   [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode/VSCodium
-
-*   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
-
-*   [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped
-
-*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-
-*   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
-
-*   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-
-*   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-
-*   [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage.
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-
-*   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-
-*   [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
-
-*   [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-
-*   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
-
-*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
-*   [ahonn/logseq-plugin-todo](https://github.com/ahonn/logseq-plugin-todo) - A simple to-do list plugin for logseq
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
-
-*   [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
-
-*   [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar for logseq
-
-*   [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [pengx17/logseq-plugin-link-preview](https://github.com/pengx17/logseq-plugin-link-preview) - Preview links in logseq
-
-*   [antfu/vscode-smart-clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
-
-*   [seo-rii/electron-acrylic-window](https://github.com/seo-rii/electron-acrylic-window) - Add acrylic effect to your electron application
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [unix/unix.bio](https://github.com/unix/unix.bio) - My static blog template.
-
-*   [unix/secret](https://github.com/unix/secret) -
-
-*   [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech\_balloon: :gem:
-
-*   [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) - 一个基于 React native 开发的音乐软件
-
-*   [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-
-*   [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation \[WIP]
-
-*   [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
-
-*   [ven/ven-earth](https://github.com/ven/ven-earth) - 🌍 My personal site created with Next.js and TailwindCSS.
-
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-
-*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-
-*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-
-*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-
-*   [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-
-*   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
-
-*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-
-*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-
-*   [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic emulator that connects to Apple Music and Spotify. Built with React & Styled Components
-
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
-
-*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-
-*   [pmndrs/use-gesture](https://github.com/pmndrs/use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
-
-*   [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) -
-
-*   [tancredi/fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
-
-*   [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
-
-*   [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-
-*   [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
-
-*   [rfoel/use-prefers-color-scheme](https://github.com/rfoel/use-prefers-color-scheme) - React hook for determining the preferred color scheme
-
-*   [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
-
-*   [renzholy/mongood](https://github.com/renzholy/mongood) - A MongoDB GUI with Fluent Design
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-
-*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
-
-*   [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
-
-*   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-
-*   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-
-*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-
-*   [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
-
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and you name it compatible.
-
-*   [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
-
-*   [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
-
-*   [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-
-*   [oct16/TimeCat](https://github.com/oct16/TimeCat) - A Magical Web Recorder & Player 🖥
-
-*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-*   [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-
-*   [Ovilia/2019-typography-calendar](https://github.com/Ovilia/2019-typography-calendar) - 2019 字体日历 App
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-
-*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
 ## SCSS
 
 *   [catppuccin/logseq](https://github.com/catppuccin/logseq) - 🦫 Soothing pastel theme for Logseq
@@ -1134,8 +1136,6 @@
 
 *   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
 
-*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
 ## Stylus
 
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
@@ -1280,7 +1280,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 smart second brain :rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart second brain :rocket:
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
