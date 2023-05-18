@@ -333,7 +333,7 @@
 
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 
-*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle 🖼
+*   [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 
 *   [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 
@@ -1283,7 +1283,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘩𝘢𝘷𝘪𝘯𝘨 𝘢 𝘴𝘦𝘤𝘰𝘯𝘥 𝘣𝘳𝘢𝘪𝘯... Your new, ridonkuliciously-smart clipboard manager:rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain::rocket:
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
