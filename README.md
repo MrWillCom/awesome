@@ -1395,7 +1395,7 @@
 
 ## Lua
 
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中川韵）朙月拼音与小鹤双拼的自用配置方案
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）朙月拼音与小鹤双拼的自用配置方案
 
 *   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 
