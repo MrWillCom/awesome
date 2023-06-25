@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [Swift](#swift)
 *   [SCSS](#scss)
-*   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -53,155 +53,9 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
-## CSS
-
-*   [pengx17/logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) - \</> Logseq dev theme
-
-*   [daattali/oldschool-github-extension](https://github.com/daattali/oldschool-github-extension) - Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
-
-*   [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
-
-*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
-
-*   [catppuccin/elk](https://github.com/catppuccin/elk) - 🐘 Soothing pastel theme for Elk
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
-
-*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [evvoon/stopwatch](https://github.com/evvoon/stopwatch) -
-
-*   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
-
-*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme.
-
-*   [tobealive/logseq-allday-theme](https://github.com/tobealive/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
-
-*   [mimeku/hexo-theme-cupertino](https://github.com/mimeku/hexo-theme-cupertino) - Update hexo-theme-cupertino
-
-*   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
-
-*   [varkai/hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
-
-*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
-
-*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
-
-*   [rapiz1/typography](https://github.com/rapiz1/typography) - A Hexo theme focused on clean format and elegant reading experience.
-
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-
-*   [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode) - The Dark Mode for GitHub.com
-
-*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
-
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
-*   [elitistsnob/typora-gitlab-theme](https://github.com/elitistsnob/typora-gitlab-theme) - A Typora markdown editor theme for those who want the look and feel of Gitlab's familiar markdown style.
-
-## Swift
-
-*   [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
-
-*   [AnimeNow-Team/AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - Track your favorite anime shows anywhere! Built with SwiftUI and TCA.
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
-
-*   [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
-
-*   [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
-
-*   [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
-
-*   [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
-
-*   [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。
-
-*   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
-
-*   [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
-
-*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-
-*   [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
-
-*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
-
-*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-
-*   [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
-
-*   [MrWillCom/happy-birthday-to-aeilot-2022](https://github.com/MrWillCom/happy-birthday-to-aeilot-2022) - Happy Birthday! @aeilot
-
-*   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-*   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
-
-*   [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
-
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-
-*   [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-
-*   [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
-
-*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
-
-*   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
-
-*   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-## SCSS
-
-*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
-
-*   [catppuccin/logseq](https://github.com/catppuccin/logseq) - 🦫 Soothing pastel theme for Logseq
-
-*   [files-community/Website](https://github.com/files-community/Website) -
-
-*   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-
-*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-
-*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
-
-*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-
-*   [noatpad/typora-theme-ursine](https://github.com/noatpad/typora-theme-ursine) - A Typora theme, inspired by Bear
-
 ## TypeScript
+
+*   [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application.
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
 
@@ -555,7 +409,153 @@
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
-*   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
+## CSS
+
+*   [pengx17/logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) - \</> Logseq dev theme
+
+*   [daattali/oldschool-github-extension](https://github.com/daattali/oldschool-github-extension) - Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
+
+*   [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
+
+*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
+
+*   [catppuccin/elk](https://github.com/catppuccin/elk) - 🐘 Soothing pastel theme for Elk
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+
+*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [evvoon/stopwatch](https://github.com/evvoon/stopwatch) -
+
+*   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
+
+*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme.
+
+*   [tobealive/logseq-allday-theme](https://github.com/tobealive/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
+
+*   [mimeku/hexo-theme-cupertino](https://github.com/mimeku/hexo-theme-cupertino) - Update hexo-theme-cupertino
+
+*   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
+
+*   [varkai/hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
+
+*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
+
+*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
+
+*   [rapiz1/typography](https://github.com/rapiz1/typography) - A Hexo theme focused on clean format and elegant reading experience.
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode) - The Dark Mode for GitHub.com
+
+*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+*   [elitistsnob/typora-gitlab-theme](https://github.com/elitistsnob/typora-gitlab-theme) - A Typora markdown editor theme for those who want the look and feel of Gitlab's familiar markdown style.
+
+## Swift
+
+*   [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
+
+*   [AnimeNow-Team/AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - Track your favorite anime shows anywhere! Built with SwiftUI and TCA.
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
+
+*   [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
+
+*   [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
+
+*   [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
+
+*   [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
+
+*   [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。
+
+*   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
+
+*   [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
+
+*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
+
+*   [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
+
+*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+
+*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+
+*   [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
+
+*   [MrWillCom/happy-birthday-to-aeilot-2022](https://github.com/MrWillCom/happy-birthday-to-aeilot-2022) - Happy Birthday! @aeilot
+
+*   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
+*   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
+
+*   [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+
+*   [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
+
+*   [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
+
+*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
+
+*   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
+
+*   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+## SCSS
+
+*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
+
+*   [catppuccin/logseq](https://github.com/catppuccin/logseq) - 🦫 Soothing pastel theme for Logseq
+
+*   [files-community/Website](https://github.com/files-community/Website) -
+
+*   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+
+*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+
+*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+
+*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+
+*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+
+*   [noatpad/typora-theme-ursine](https://github.com/noatpad/typora-theme-ursine) - A Typora theme, inspired by Bear
 
 ## C++
 
@@ -681,7 +681,7 @@
 
 *   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
 *   [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 
