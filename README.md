@@ -57,7 +57,7 @@
 
 *   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
-*   [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - Mouse effect of iPad in browser that can be used in any framework
+*   [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
 
 *   [seek-oss/capsize](https://github.com/seek-oss/capsize) - Flipping how we define typography in CSS.
 
