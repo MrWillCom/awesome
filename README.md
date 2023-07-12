@@ -577,7 +577,7 @@
 
 *   [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors) - The smallest and fastest command-line coloring package on the internet
 
-*   [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+*   [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
 
 *   [sindresorhus/node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module
 
