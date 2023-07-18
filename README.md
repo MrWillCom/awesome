@@ -575,7 +575,7 @@
 
 *   [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors) - The smallest and fastest command-line coloring package on the internet
 
-*   [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
+*   [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 
 *   [sindresorhus/node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module
 
@@ -1415,7 +1415,7 @@
 
 *   [aeilot/hexo-theme-paperwhite](https://github.com/aeilot/hexo-theme-paperwhite) - A minimalist theme
 
-*   [FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white) - 一款在极简和个性之间徘徊的Hexo主题
+*   [FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white) - A hexo theme
 
 ## C\#
 
