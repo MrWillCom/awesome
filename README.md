@@ -383,6 +383,8 @@
 
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
+*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 *   [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -714,8 +716,6 @@
 *   [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 
 *   [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-
-*   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 
 *   [Summer-andy/chrome-extensions-searchReplace](https://github.com/Summer-andy/chrome-extensions-searchReplace) - search and replace  🎉 .
 
@@ -1093,7 +1093,7 @@
 
 *   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 
