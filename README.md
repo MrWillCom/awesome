@@ -473,7 +473,7 @@
 
 *   [aeilot/GeoWiki](https://github.com/aeilot/GeoWiki) - Wiki for High School Geography (Especially for Shanghai students | WIP)
 
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 
 *   [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 
