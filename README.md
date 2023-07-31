@@ -959,7 +959,7 @@
 
 *   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 
-*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
@@ -1297,7 +1297,7 @@
 
 *   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 
-*   [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+*   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 *   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 
