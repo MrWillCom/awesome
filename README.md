@@ -388,8 +388,6 @@
 
 *   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -776,7 +774,7 @@
 
 *   [shinnn/github-username-regex](https://github.com/shinnn/github-username-regex) - A regular expression that only matches a currently valid Github username
 
-*   [mherrmann/winstall](https://github.com/mherrmann/winstall) - A web app for browsing and installing Windows Package Manager apps.
+*   [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
 
 *   [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 
@@ -1273,6 +1271,8 @@
 *   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 *   [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
+
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 
 *   [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 
