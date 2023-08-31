@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -40,7 +41,6 @@
 *   [Svelte](#svelte)
 *   [Handlebars](#handlebars)
 *   [AutoIt](#autoit)
-*   [PHP](#php)
 *   [V](#v)
 *   [Ruby](#ruby)
 *   [PowerShell](#powershell)
@@ -51,6 +51,18 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
+
+## PHP
+
+*   [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+
+*   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
+
+*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+
+*   [stevenlei/codingstarter-forum](https://github.com/stevenlei/codingstarter-forum) - A forum created with Laravel, Socket.io, and Tailwind CSS. Live site on https://codingstarter.com
+
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## HTML
 
@@ -1094,8 +1106,6 @@
 
 *   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
 ## Swift
 
 *   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
@@ -1673,16 +1683,6 @@
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 
 *   [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
-
-## PHP
-
-*   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
-
-*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-
-*   [stevenlei/codingstarter-forum](https://github.com/stevenlei/codingstarter-forum) - A forum created with Laravel, Socket.io, and Tailwind CSS. Live site on https://codingstarter.com
-
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## V
 
