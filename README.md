@@ -124,7 +124,7 @@
 
 *   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
 
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 
 *   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 
@@ -834,7 +834,7 @@
 
 *   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+*   [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
 
 *   [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
 
