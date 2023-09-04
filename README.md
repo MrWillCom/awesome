@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [C#](#c)
 *   [TypeScript](#typescript)
@@ -52,143 +52,9 @@
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
 
-## PHP
-
-*   [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
-
-*   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
-
-*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-
-*   [stevenlei/codingstarter-forum](https://github.com/stevenlei/codingstarter-forum) - A forum created with Laravel, Socket.io, and Tailwind CSS. Live site on https://codingstarter.com
-
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-## HTML
-
-*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
-
-*   [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) -
-
-*   [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
-
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
-
-*   [CLCK0622/ai-program](https://github.com/CLCK0622/ai-program) - A starter AI program using TensorFlow Mobilenet, which features image processing.
-
-*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
-
-*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
-
-*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-
-*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
-
-*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
-*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
-
-## miscellaneous
-
-*   [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
-
-*   [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
-
-*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-
-*   [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-
-*   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
-
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-
-*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
-
-*   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
-
-*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-
-*   [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
-
-*   [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-
-*   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
-
-*   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
-
-*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-
-*   [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
-
-*   [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
-
-*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-*   [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
-
-*   [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
-
-*   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
-
-*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
-
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-
-*   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-
-*   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
-
-*   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
 ## JavaScript
+
+*   [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 
 *   [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
 
@@ -544,6 +410,142 @@
 
 *   [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 
+## PHP
+
+*   [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
+
+*   [bs-community/blessing-skin-server](https://github.com/bs-community/blessing-skin-server) - Web application brings your custom skins back in offline Minecraft servers.
+
+*   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+
+*   [stevenlei/codingstarter-forum](https://github.com/stevenlei/codingstarter-forum) - A forum created with Laravel, Socket.io, and Tailwind CSS. Live site on https://codingstarter.com
+
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+
+## HTML
+
+*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
+
+*   [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) -
+
+*   [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
+
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+
+*   [CLCK0622/ai-program](https://github.com/CLCK0622/ai-program) - A starter AI program using TensorFlow Mobilenet, which features image processing.
+
+*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
+
+*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
+
+*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
+
+*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
+*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
+
+## miscellaneous
+
+*   [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
+
+*   [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
+
+*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+
+*   [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+
+*   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
+
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+
+*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
+
+*   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
+
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+
+*   [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
+
+*   [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
+
+*   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
+
+*   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
+
+*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+
+*   [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
+
+*   [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
+
+*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+*   [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
+
+*   [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+
+*   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
+
+*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+
+*   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+
+*   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
+
+*   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
 ## Python
 
 *   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
@@ -687,8 +689,6 @@
 *   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## TypeScript
 
