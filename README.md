@@ -682,7 +682,7 @@
 
 *   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
 *   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
