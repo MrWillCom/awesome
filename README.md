@@ -916,7 +916,7 @@
 
 *   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 
-*   [CLCK0622/ai-program](https://github.com/CLCK0622/ai-program) - A starter AI program using TensorFlow Mobilenet, which features image processing.
+*   [CLCK0622/TensorFlow-MobileNet-Starter-Program](https://github.com/CLCK0622/TensorFlow-MobileNet-Starter-Program) - A starter AI program (online demo) using TensorFlow MobileNet, which features image processing.
 
 *   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
 
@@ -1105,6 +1105,8 @@
 *   [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 
 *   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
+
+*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
 *   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 唷，找本堂主有何贵干呀？
 
@@ -1412,8 +1414,6 @@
 
 *   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 
-*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
-
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
 *   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
@@ -1502,7 +1502,7 @@
 
 *   [linesoft2/open2share](https://github.com/linesoft2/open2share) - An Android app that can convert open(view) files to share(send) files.
 
-*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 
 *   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
 
