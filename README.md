@@ -498,7 +498,7 @@
 
 *   [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application.
 
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React style library just happens to work on native, too.
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
 
 *   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 
@@ -685,8 +685,6 @@
 *   [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage.
 
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 
@@ -1335,6 +1333,8 @@
 *   [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 
 *   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+
+*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
 *   [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 
