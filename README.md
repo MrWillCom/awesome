@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [SCSS](#scss)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [JavaScript](#javascript)
@@ -19,7 +20,6 @@
 *   [Stylus](#stylus)
 *   [Go](#go)
 *   [Vue](#vue)
-*   [SCSS](#scss)
 *   [C++](#c-2)
 *   [Objective-C](#objective-c)
 *   [VBScript](#vbscript)
@@ -52,7 +52,27 @@
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
 
+## SCSS
+
+*   [unix/poc.css](https://github.com/unix/poc.css) - Lightweight style file.
+
+*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
+
+*   [catppuccin/logseq](https://github.com/catppuccin/logseq) - 🦫 Soothing pastel theme for Logseq
+
+*   [files-community/Website](https://github.com/files-community/Website) -
+
+*   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+
+*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+
+*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
+
+*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+
 ## TypeScript
+
+*   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🤯 Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 
 *   [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 
@@ -1358,8 +1378,6 @@
 
 *   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
 ## Vue
 
 *   [CatsJuice/me](https://github.com/CatsJuice/me) - Personal profile
@@ -1391,22 +1409,6 @@
 *   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
 
 *   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
-
-## SCSS
-
-*   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
-
-*   [catppuccin/logseq](https://github.com/catppuccin/logseq) - 🦫 Soothing pastel theme for Logseq
-
-*   [files-community/Website](https://github.com/files-community/Website) -
-
-*   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-
-*   [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
-
-*   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 
 ## C++
 
@@ -1639,8 +1641,6 @@
 *   [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 
 *   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-
-*   [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 
 ## Assembly
 
