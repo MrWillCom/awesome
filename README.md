@@ -354,7 +354,7 @@
 
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
-*   [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+*   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
 *   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 
@@ -529,8 +529,6 @@
 *   [illixion/vscode-vibrancy-continued](https://github.com/illixion/vscode-vibrancy-continued) - Enable Acrylic/Glass effect for your VS Code.
 
 *   [Hsiao-Feng/Periodic-Table](https://github.com/Hsiao-Feng/Periodic-Table) - HTML5 3D 科技风格元素周期表。
-
-*   [austin2035/top-link-react](https://github.com/austin2035/top-link-react) - TOP LINK是一款免费的聚合链接的互联网数字身份应用，全平台外链聚合。旨在为创作者、品牌、IP、独立开发者等提供多平台聚合页面。
 
 *   [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
 
@@ -1377,6 +1375,8 @@
 *   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
 *   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## Vue
 
