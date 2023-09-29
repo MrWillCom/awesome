@@ -206,9 +206,9 @@
 
 *   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 
-*   [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
-
 *   [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
+
+*   [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 
 *   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
@@ -246,7 +246,7 @@
 
 *   [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode) - A stylish theme inspired by Vercel Theme ▲ and One Dark Pro 🎨.
 
-*   [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
+*   [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
@@ -780,7 +780,7 @@
 
 *   [fatiherikli/brainfuck-visualizer](https://github.com/fatiherikli/brainfuck-visualizer) - Javascript Brainfuck Interpreter and Visualizer. Built with Backbone.js
 
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 *   [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 
@@ -868,9 +868,9 @@
 
 *   [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
 
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
 *   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
 *   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 
