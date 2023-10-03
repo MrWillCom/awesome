@@ -156,6 +156,8 @@
 
 *   [vercel/react-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application.
 
+*   [mathquill/mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
+
 *   [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel theme for VSCode/VSCodium icons
 
 *   [ryanccn/olek](https://github.com/ryanccn/olek) - Status page.
@@ -256,7 +258,7 @@
 
 *   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+*   [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 
 *   [yenche123/podcast-together](https://github.com/yenche123/podcast-together) - 跟你的好友一起实时在线听播客！
 
@@ -567,8 +569,6 @@
 *   [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 
 *   [merdok/homebridge-miot](https://github.com/merdok/homebridge-miot) - Homebridge plugin for devices supporting the Xiaomi miot protocol
-
-*   [mathquill/mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
 
 *   [antfu/userscript-clean-twitter](https://github.com/antfu/userscript-clean-twitter) - Bring back the peace on Twitter
 
@@ -1172,7 +1172,7 @@
 
 *   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
-*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 唷，找本堂主有何贵干呀？
+*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - Windows 平台下的超级多合一的原神工具箱
 
 *   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 
