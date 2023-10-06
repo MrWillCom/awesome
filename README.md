@@ -130,7 +130,7 @@
 
 ## TypeScript
 
-*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring platform
+*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform  🏓
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
