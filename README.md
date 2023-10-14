@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [C#](#c)
@@ -32,7 +33,6 @@
 *   [EJS](#ejs)
 *   [Less](#less)
 *   [Haskell](#haskell)
-*   [Lua](#lua)
 *   [MDX](#mdx)
 *   [Assembly](#assembly)
 *   [Markdown](#markdown)
@@ -51,6 +51,14 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
+
+## Lua
+
+*   [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 
 ## TypeScript
 
@@ -436,8 +444,6 @@
 
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-
 ## Shell
 
 *   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
@@ -479,8 +485,6 @@
 *   [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
 
 *   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
-
-*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
 *   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-Source Genshin Impact Toolkit 🧰
 
@@ -1460,6 +1464,8 @@
 
 *   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 
+*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
+
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
 *   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
@@ -1627,12 +1633,6 @@
 ## Haskell
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-
-## Lua
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 
 ## MDX
 
