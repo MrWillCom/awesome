@@ -1398,7 +1398,7 @@
 
 *   [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 
 *   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
