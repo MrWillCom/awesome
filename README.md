@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-*   [Lua](#lua)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [C#](#c)
@@ -33,6 +32,7 @@
 *   [EJS](#ejs)
 *   [Less](#less)
 *   [Haskell](#haskell)
+*   [Lua](#lua)
 *   [MDX](#mdx)
 *   [Assembly](#assembly)
 *   [Markdown](#markdown)
@@ -52,19 +52,13 @@
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
 
-## Lua
+## TypeScript
 
 *   [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
-
-## TypeScript
-
 *   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
-*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform  🏓
+*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
 
 *   [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 
@@ -1632,7 +1626,13 @@
 
 ## Haskell
 
-*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+
+## Lua
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 
 ## MDX
 
