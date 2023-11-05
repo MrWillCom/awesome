@@ -1144,7 +1144,7 @@
 
 *   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 
-*   [sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Manage the desktop wallpaper on Windows
+*   [sindresorhus/windows-wallpaper](https://github.com/sindresorhus/windows-wallpaper) - Manage the desktop wallpaper on Windows
 
 *   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
