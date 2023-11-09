@@ -158,7 +158,7 @@
 
 *   [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application.
 
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and UI kit made faster with an optimizing compiler.
 
 *   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 
