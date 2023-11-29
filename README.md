@@ -742,7 +742,7 @@
 
 *   [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 
-*   [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar for logseq
+*   [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar, task manager and daily planner plugin for logseq
 
 *   [pengx17/logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) - A Logseq plugin which lets you open pages in tabs like working in the browser
 
