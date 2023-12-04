@@ -5,13 +5,13 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
+*   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [C#](#c)
 *   [Swift](#swift)
-*   [Dart](#dart)
 *   [C](#c-1)
 *   [SCSS](#scss)
 *   [CSS](#css)
@@ -53,6 +53,8 @@
 *   [CMake](#cmake)
 
 ## miscellaneous
+
+*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？放假之前快交。
 
 *   [lauridskern/open-runde](https://github.com/lauridskern/open-runde) - A soft, rounded variant of Inter
 
@@ -135,6 +137,22 @@
 *   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
 
 *   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+## Dart
+
+*   [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
+
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+
+*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
+
+*   [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
+
+*   [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
+
+*   [rikulo/socket.io-client-dart](https://github.com/rikulo/socket.io-client-dart) - socket.io-client-dart: Dartlang port of socket.io-client https://github.com/socketio/socket.io-client
 
 ## JavaScript
 
@@ -471,10 +489,6 @@
 *   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 *   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-
-*   [BOOK-BLOG/tooltiplery.js](https://github.com/BOOK-BLOG/tooltiplery.js) - Simply create your tooltip quickly.
-
-*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
 ## TypeScript
 
@@ -1095,20 +1109,6 @@
 *   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 
 *   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-## Dart
-
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
-
-*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
-
-*   [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
-
-*   [git-touch/git-touch](https://github.com/git-touch/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
-
-*   [rikulo/socket.io-client-dart](https://github.com/rikulo/socket.io-client-dart) - socket.io-client-dart: Dartlang port of socket.io-client https://github.com/socketio/socket.io-client
 
 ## C
 
