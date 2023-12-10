@@ -946,7 +946,7 @@
 
 ## Shell
 
-*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
+*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 
 *   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
 
