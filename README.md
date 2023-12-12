@@ -112,7 +112,7 @@
 
 *   [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application.
 
-*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and UI kit made faster with an optimizing compiler.
+*   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.
 
 *   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 
@@ -170,7 +170,7 @@
 
 *   [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
 
-*   [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
+*   [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 
 *   [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
@@ -270,7 +270,7 @@
 
 *   [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
 
-*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
+*   [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
 
 *   [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 
