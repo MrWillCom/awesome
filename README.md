@@ -172,7 +172,7 @@
 
 *   [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 
-*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+*   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
 *   [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
 
@@ -1620,7 +1620,7 @@
 
 ## Less
 
-*   [MaLuns/hexo-theme-async](https://github.com/MaLuns/hexo-theme-async) - A simple, lightweight Hexo theme
+*   [MaLuns/hexo-theme-async](https://github.com/MaLuns/hexo-theme-async) - 一个简单而轻量级的 Hexo 主题。 |     A simple, lightweight Hexo theme.
 
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
 
