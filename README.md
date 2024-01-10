@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
-*   [Python](#python)
-*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
+*   [Java](#java)
+*   [TypeScript](#typescript)
+*   [Python](#python)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [SCSS](#scss)
@@ -27,7 +28,6 @@
 *   [VBScript](#vbscript)
 *   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [EJS](#ejs)
 *   [Less](#less)
@@ -50,83 +50,142 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
-*   [CMake](#cmake)
 
-## Python
+## miscellaneous
 
-*   [EvanLuo42/elements-dictionary](https://github.com/EvanLuo42/elements-dictionary) - A Dictionary of Elements Information - For Apple Dictionary
+*   [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 
-*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
+*   [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
 
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
+*   [lauridskern/open-runde](https://github.com/lauridskern/open-runde) - A soft, rounded variant of Inter
 
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+*   [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+*   [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
 
-*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 
-*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
+*   [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
 
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-*   [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 
-*   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
+*   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
 
-*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) -
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+*   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
 
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
 
-*   [Bowserinator/Periodic-Table-JSON](https://github.com/Bowserinator/Periodic-Table-JSON) - A json of the entire periodic table.
+*   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 
-*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
-*   [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 
-*   [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+*   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
 
-*   [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont) - webfont package for the LXGW WenKai typeface
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+*   [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+*   [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
 
-*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+*   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
 
-*   [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest) - Hacktoberfest OPEN FIRST Pull Request 🎉
+*   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
 
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 
-*   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+*   [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 
-*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+*   [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
 
-*   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+*   [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
 
-*   [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
+*   [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+*   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 
-*   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
-*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+
+*   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+
+*   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
+
+*   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+## Java
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [linesoft2/open2share](https://github.com/linesoft2/open2share) - An Android app that can convert open(view) files to share(send) files.
+
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+
+*   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
+
+*   [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+
+*   [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
+
+*   [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
+
+*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+
+*   [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+
+*   [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
+
+*   [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
+
+*   [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) - A Minecraft Fabric mod that that aims to add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.
+
+*   [MrShieh-X/console-minecraft-launcher](https://github.com/MrShieh-X/console-minecraft-launcher) - 一个在命令行上运行的 Minecraft Java 版启动器 A Minecraft Java Edition Launcher Running on the Command Line
+
+*   [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
+
+*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## TypeScript
+
+*   [pranshuchittora/autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node\_modules | Built with React
 
 *   [coolpace/V2EX\_Polish](https://github.com/coolpace/V2EX_Polish) - 专业的 V2EX 浏览器扩展，集合了众多实用功能，重塑你的浏览体验！
 
@@ -526,91 +585,79 @@
 
 *   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 
-## miscellaneous
+## Python
 
-*   [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
+*   [EvanLuo42/elements-dictionary](https://github.com/EvanLuo42/elements-dictionary) - A Dictionary of Elements Information - For Apple Dictionary
 
-*   [lauridskern/open-runde](https://github.com/lauridskern/open-runde) - A soft, rounded variant of Inter
+*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
 
-*   [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 
-*   [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
+*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
-*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
-*   [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
+*   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
 
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 
-*   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
+*   [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
 
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+*   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
 
-*   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
+*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) -
 
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
-*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
-*   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [Bowserinator/Periodic-Table-JSON](https://github.com/Bowserinator/Periodic-Table-JSON) - A json of the entire periodic table.
 
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 
-*   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
+*   [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
 
-*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+*   [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 
-*   [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
+*   [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont) - webfont package for the LXGW WenKai typeface
 
-*   [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 
-*   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 
-*   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
+*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
-*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+*   [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest) - Hacktoberfest OPEN FIRST Pull Request 🎉
 
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
-*   [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
+*   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 
-*   [iNPUTmice/Conversations](https://github.com/iNPUTmice/Conversations) - Conversations is an open source XMPP/Jabber client for Android
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
-*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 
-*   [therealsreehari/Learn-Data-Science-For-Free](https://github.com/therealsreehari/Learn-Data-Science-For-Free) - This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.
+*   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
-*   [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 
-*   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
+*   [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 
-*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 
-*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+*   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-
-*   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-
-*   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
-
-*   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
 ## Rust
 
@@ -1312,8 +1359,6 @@
 
 *   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 
-*   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
 ## CSS
 
 *   [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
@@ -1508,8 +1553,6 @@
 
 *   [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 
-*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-
 ## Objective-C
 
 *   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
@@ -1541,48 +1584,6 @@
 *   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 
 *   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
-
-## Java
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [linesoft2/open2share](https://github.com/linesoft2/open2share) - An Android app that can convert open(view) files to share(send) files.
-
-*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
-
-*   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
-
-*   [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
-
-*   [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
-
-*   [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
-
-*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
-
-*   [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-
-*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
-
-*   [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
-
-*   [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
-
-*   [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) - A Minecraft Fabric mod that that aims to add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.
-
-*   [MrShieh-X/console-minecraft-launcher](https://github.com/MrShieh-X/console-minecraft-launcher) - 一个在命令行上运行的 Minecraft Java 版启动器 A Minecraft Java Edition Launcher Running on the Command Line
-
-*   [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
-
-*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
-
-*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## Kotlin
 
@@ -1741,7 +1742,3 @@
 ## Vim Script
 
 *   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
-## CMake
-
-*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
