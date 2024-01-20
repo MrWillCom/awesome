@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Rust](#rust)
 *   [C](#c)
 *   [Java](#java)
@@ -22,7 +23,6 @@
 *   [HTML](#html)
 *   [Elixir](#elixir)
 *   [Stylus](#stylus)
-*   [Vue](#vue)
 *   [C++](#c-2)
 *   [Objective-C](#objective-c)
 *   [VBScript](#vbscript)
@@ -50,6 +50,42 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
+
+## Vue
+
+*   [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [CatsJuice/me](https://github.com/CatsJuice/me) - Personal profile
+
+*   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
+
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3
+
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+
+*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+
+*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+
+*   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
+
+*   [rebornix/logseq-open-in-code](https://github.com/rebornix/logseq-open-in-code) -
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar) - A journals calendar for Logseq.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [qier222/currency-app](https://github.com/qier222/currency-app) - The Ultimate Currency Converter 🤑
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
+
+*   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
 ## Rust
 
@@ -286,8 +322,6 @@
 *   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 *   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 
 ## TypeScript
 
@@ -1470,40 +1504,6 @@
 *   [aeilot/hexo-theme-paperwhite](https://github.com/aeilot/hexo-theme-paperwhite) - A minimalist theme
 
 *   [FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white) - a hexo theme
-
-## Vue
-
-*   [CatsJuice/me](https://github.com/CatsJuice/me) - Personal profile
-
-*   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3
-
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-
-*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-
-*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
-*   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
-
-*   [rebornix/logseq-open-in-code](https://github.com/rebornix/logseq-open-in-code) -
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar) - A journals calendar for Logseq.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [qier222/currency-app](https://github.com/qier222/currency-app) - The Ultimate Currency Converter 🤑
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
-
-*   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
 ## C++
 
