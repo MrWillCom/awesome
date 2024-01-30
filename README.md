@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Nim](#nim)
 *   [TypeScript](#typescript)
+*   [Nim](#nim)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -53,11 +53,9 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
-## Nim
-
-*   [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
-
 ## TypeScript
+
+*   [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh
 
 *   [geekyouth/moodist](https://github.com/geekyouth/moodist) - 有助于集中注意力和平静的环境声音
 
@@ -485,6 +483,10 @@
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
+## Nim
+
+*   [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+
 ## miscellaneous
 
 *   [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
@@ -794,8 +796,6 @@
 *   [fmtjava/Flutter\_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer) - Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!
 
 *   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
-
-*   [devefy/Flutter-Story-App-UI](https://github.com/devefy/Flutter-Story-App-UI) -
 
 ## JavaScript
 
