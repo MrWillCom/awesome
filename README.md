@@ -65,7 +65,7 @@
 
 *   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 
-*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A fork of kabouzeid/Phonograph under maintenance and development
+*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A fork of kabouzeid/Phonograph in maintenance and development
 
 *   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
@@ -274,6 +274,8 @@
 *   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 *   [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
 
@@ -866,8 +868,6 @@
 *   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 
 *   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-
-*   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 *   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
 
