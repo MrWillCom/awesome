@@ -1555,7 +1555,7 @@
 
 *   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
 
-*   [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - The stylish yet powerful GitHub client for Windows.
+*   [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The stylish yet powerful GitHub client for Windows.
 
 *   [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 
