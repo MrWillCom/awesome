@@ -269,7 +269,7 @@
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
-*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 
 *   [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 
