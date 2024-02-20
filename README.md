@@ -1059,7 +1059,7 @@
 
 *   [Hsiao-Feng/Periodic-Table](https://github.com/Hsiao-Feng/Periodic-Table) - HTML5 3D 科技风格元素周期表。
 
-*   [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
+*   [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 
 *   [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 
