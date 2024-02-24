@@ -317,7 +317,7 @@
 
 *   [Get-Tech-Stack/TechStack](https://github.com/Get-Tech-Stack/TechStack) - The extension will display the tech stack of the Repo when the user visits a GitHub Public Repo. The user can easily get more info about the repo. 当用户访问 GitHub 公共存储库时，该扩展将显示存储库的技术栈。 用户可以更轻松地获取有关存储库的更多信息。
 
-*   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🤯 Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
+*   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 
 *   [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 
