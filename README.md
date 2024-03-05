@@ -123,7 +123,7 @@
 
 *   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
 
-*   [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 *   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 
