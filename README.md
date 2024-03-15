@@ -155,8 +155,6 @@
 
 *   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
 
-*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
-
 *   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-Source Genshin Impact Toolkit 🧰
 
 *   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -1738,6 +1736,8 @@
 *   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
 *   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+
+*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
 
 *   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
