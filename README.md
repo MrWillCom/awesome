@@ -79,7 +79,7 @@
 
 *   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
 
-*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) -
+*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 
 *   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
@@ -747,7 +747,7 @@
 
 *   [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react) - ⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。
 
@@ -1923,7 +1923,7 @@
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
-*   [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+*   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## Vim script
 
