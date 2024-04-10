@@ -647,7 +647,7 @@
 
 *   [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
 
-*   [MrKai77/Loop](https://github.com/MrKai77/Loop) - MacOS window management made elegant.
+*   [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 *   [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 
