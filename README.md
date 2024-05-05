@@ -1499,7 +1499,7 @@
 
 *   [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 
-*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
+*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your Self-hosted Comment System.
 
 *   [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
 
