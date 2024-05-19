@@ -73,7 +73,7 @@
 
 *   [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 
-*   [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
+*   [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
 
 *   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 
