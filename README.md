@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
@@ -21,16 +22,15 @@
 *   [Go](#go)
 *   [SCSS](#scss)
 *   [CSS](#css)
-*   [Shell](#shell)
 *   [PHP](#php)
 *   [HTML](#html)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Elixir](#elixir)
 *   [Stylus](#stylus)
 *   [C++](#c-2)
 *   [Objective-C](#objective-c)
 *   [VBScript](#vbscript)
 *   [Roff](#roff)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [EJS](#ejs)
 *   [Less](#less)
 *   [Haskell](#haskell)
@@ -52,6 +52,42 @@
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
+
+## Shell
+
+*   [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
+
+*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+
+*   [floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk) - Space Grotesk: a proportional variant of the original fixed-width Space Mono family
+
+*   [somebasj/ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) - Parallels Desktop for mac Crack
+
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+*   [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+
+*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+*   [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
+
+*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+*   [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
+
+*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
+
+*   [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
+
+*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 
 ## JavaScript
 
@@ -1019,8 +1055,6 @@
 
 *   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
 
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-
 *   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
@@ -1627,40 +1661,6 @@
 
 *   [elitistsnob/typora-gitlab-theme](https://github.com/elitistsnob/typora-gitlab-theme) - A Typora markdown editor theme for those who want the look and feel of Gitlab's familiar markdown style.
 
-## Shell
-
-*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
-
-*   [floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk) - Space Grotesk: a proportional variant of the original fixed-width Space Mono family
-
-*   [somebasj/ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) - Parallels Desktop for mac Crack
-
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-
-*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-
-*   [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
-
-*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-
-*   [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-
-*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-
-*   [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
-
-*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-
 ## PHP
 
 *   [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
@@ -1712,6 +1712,20 @@
 *   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
 *   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
+
+## Jupyter Notebook
+
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
+
+*   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
+
+*   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
+
+*   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 
 ## Elixir
 
@@ -1811,18 +1825,6 @@
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
-## Jupyter Notebook
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
-
-*   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
-
-*   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
-
-*   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
-
 ## EJS
 
 *   [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - 🔥 Minimalist & Powerful Hexo Theme
@@ -1834,8 +1836,6 @@
 *   [MaLuns/hexo-theme-async](https://github.com/MaLuns/hexo-theme-async) - 一个简单而轻量级的 Hexo 主题。 |     A simple, lightweight Hexo theme.
 
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
-
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Haskell
 
