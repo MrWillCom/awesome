@@ -1302,7 +1302,7 @@
 
 *   [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 
-*   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+*   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
 *   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 
