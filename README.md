@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Objective-C](#objective-c)
 *   [PostScript](#postscript)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
@@ -28,7 +29,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Elixir](#elixir)
 *   [C++](#c-2)
-*   [Objective-C](#objective-c)
 *   [VBScript](#vbscript)
 *   [Roff](#roff)
 *   [EJS](#ejs)
@@ -52,6 +52,20 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
+
+## Objective-C
+
+*   [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
+*   [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
+
+*   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+
+*   [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
+
+*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 
 ## PostScript
 
@@ -877,8 +891,6 @@
 
 *   [shuding/labs](https://github.com/shuding/labs) - labs
 
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-
 ## Swift
 
 *   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1107,6 +1119,8 @@
 
 *   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 
+*   [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest) - Hacktoberfest OPEN FIRST Pull Request 🎉
+
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
 *   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -1294,8 +1308,6 @@
 *   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-
-*   [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest) - Hacktoberfest OPEN FIRST Pull Request 🎉
 
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
@@ -1790,18 +1802,6 @@
 *   [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
 
 *   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-## Objective-C
-
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-*   [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
-
-*   [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-
-*   [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
-
-*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 
 ## VBScript
 
