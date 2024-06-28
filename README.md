@@ -47,6 +47,7 @@
 *   [Ruby](#ruby)
 *   [PowerShell](#powershell)
 *   [Clojure](#clojure)
+*   [JSON](#json)
 *   [Vim script](#vim-script)
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
@@ -75,7 +76,7 @@
 
 ## TypeScript
 
-*   [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
+*   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
 *   [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 
@@ -1293,7 +1294,7 @@
 
 *   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - \[testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - \[try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 
 *   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 
@@ -1857,8 +1858,6 @@
 
 *   [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 *   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
 ## Batchfile
@@ -1928,6 +1927,10 @@
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 *   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## JSON
+
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Vim script
 
