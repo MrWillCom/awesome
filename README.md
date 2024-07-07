@@ -530,7 +530,7 @@
 
 *   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - A mobile component library based on Vue3, Material Design 2, Material Design 3, and supports desktop development.
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
 
 *   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 
