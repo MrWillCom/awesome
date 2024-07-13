@@ -812,8 +812,6 @@
 
 *   [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
 
-*   [lcandy2/user.js](https://github.com/lcandy2/user.js) - There are many user scripts created by lcandy2.
-
 *   [thespicyweb/vanilla\_breeze](https://github.com/thespicyweb/vanilla_breeze) - Convert Tailwind CSS to Semantic CSS
 
 *   [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets.
@@ -1829,6 +1827,8 @@
 ## Haskell
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Lua
 
