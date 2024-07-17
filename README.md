@@ -352,6 +352,8 @@
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
+*   [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
+
 *   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -877,8 +879,6 @@
 *   [timqian/sponsor.cat](https://github.com/timqian/sponsor.cat) - 🔨 A decentralized funding platform. Powered by NFTs.
 
 *   [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
-
-*   [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 
 *   [aeilot/GeoWiki](https://github.com/aeilot/GeoWiki) - Wiki for High School Geography (Especially for Shanghai students | WIP)
 
