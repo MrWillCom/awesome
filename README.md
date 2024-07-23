@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -15,20 +16,19 @@
 *   [Objective-C](#objective-c)
 *   [PostScript](#postscript)
 *   [Stylus](#stylus)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [SCSS](#scss)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [Nim](#nim)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Go](#go)
 *   [CSS](#css)
 *   [PHP](#php)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Elixir](#elixir)
-*   [C++](#c-2)
 *   [VBScript](#vbscript)
 *   [Roff](#roff)
 *   [EJS](#ejs)
@@ -53,6 +53,70 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
+
+## C++
+
+*   [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+
+*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
+
+*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
+
+*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [aeilot/lsnotes](https://github.com/aeilot/lsnotes) - Add a description to your directories!
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+
+*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
+
+*   [aeilot/ProblemSet](https://github.com/aeilot/ProblemSet) - My OI Problems
+
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+
+*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [leihui6/marksentence](https://github.com/leihui6/marksentence) - 一个标记托福考试听力句子的工具（精听工具）
 
 ## JavaScript
 
@@ -660,7 +724,7 @@
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
-*   [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
+*   [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
 
 *   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
@@ -1324,8 +1388,6 @@
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
 ## miscellaneous
 
 *   [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
@@ -1743,68 +1805,6 @@
 ## Elixir
 
 *   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-
-## C++
-
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-
-*   [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement) - 更快、更准的原神成就导出工具
-
-*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
-*   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
-
-*   [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-*   [aeilot/lsnotes](https://github.com/aeilot/lsnotes) - Add a description to your directories!
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-
-*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-
-*   [aeilot/ProblemSet](https://github.com/aeilot/ProblemSet) - My OI Problems
-
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
-
-*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [leihui6/marksentence](https://github.com/leihui6/marksentence) - 一个标记托福考试听力句子的工具（精听工具）
 
 ## VBScript
 
