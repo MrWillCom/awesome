@@ -1138,7 +1138,7 @@
 
 *   [ryanccn/am](https://github.com/ryanccn/am) - A beautiful and feature-packed Apple Music CLI
 
-*   [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 
 *   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 
