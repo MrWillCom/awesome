@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [Markdown](#markdown)
+*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [MDX](#mdx)
-*   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -38,7 +39,6 @@
 *   [Haskell](#haskell)
 *   [Lua](#lua)
 *   [Assembly](#assembly)
-*   [Markdown](#markdown)
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
@@ -54,75 +54,19 @@
 *   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
 
-## CSS
+## Markdown
 
-*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
+*   [nolebase/nolebase](https://github.com/nolebase/nolebase) - A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方
 
-*   [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+*   [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？
 
-*   [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+*   [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 
-*   [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
-
-*   [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
-
-*   [pengx17/logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) - \</> Logseq dev theme
-
-*   [daattali/oldschool-github-extension](https://github.com/daattali/oldschool-github-extension) - Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
-
-*   [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
-
-*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
-
-*   [catppuccin/elk](https://github.com/catppuccin/elk) - 🐘 Soothing pastel theme for Elk
-
-*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
-
-*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
-
-*   [evvoon/stopwatch](https://github.com/evvoon/stopwatch) -
-
-*   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
-
-*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
-
-*   [ttytm/logseq-allday-theme](https://github.com/ttytm/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
-
-*   [mimeku/hexo-theme-cupertino](https://github.com/mimeku/hexo-theme-cupertino) - Update hexo-theme-cupertino
-
-*   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
-
-*   [varkai/hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
-
-*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-
-*   [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
-
-*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
-
-*   [rapiz1/typography](https://github.com/rapiz1/typography) - A Hexo theme focused on clean format and elegant reading experience.
-
-*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-
-*   [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode) - The Dark Mode for GitHub.com
-
-## MDX
-
-*   [EvanNotFound/how-to-deal-with-my-crush](https://github.com/EvanNotFound/how-to-deal-with-my-crush) - 一个自以为是的情感指南
-
-*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-
-*   [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
-
-*   [CLCK0622/Shanghai-High-School-Knowledge](https://github.com/CLCK0622/Shanghai-High-School-Knowledge) - Knowledge in Shanghai standard senior high school.
-
-*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-
-*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
 ## JavaScript
+
+*   [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 
 *   [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design: Redefine Your Hexo Journey.
 
@@ -139,6 +83,8 @@
 *   [knksmith57/hexo-renderer-sass](https://github.com/knksmith57/hexo-renderer-sass) - Sass renderer plugin for Hexo
 
 *   [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
+
+*   [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 
 *   [thespicyweb/vanilla\_breeze](https://github.com/thespicyweb/vanilla_breeze) - Convert Tailwind CSS to Semantic CSS
 
@@ -466,7 +412,73 @@
 
 *   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
-*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+## CSS
+
+*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
+
+*   [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+
+*   [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+
+*   [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+
+*   [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
+
+*   [pengx17/logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) - \</> Logseq dev theme
+
+*   [daattali/oldschool-github-extension](https://github.com/daattali/oldschool-github-extension) - Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
+
+*   [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
+
+*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
+
+*   [catppuccin/elk](https://github.com/catppuccin/elk) - 🐘 Soothing pastel theme for Elk
+
+*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
+
+*   [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
+
+*   [evvoon/stopwatch](https://github.com/evvoon/stopwatch) -
+
+*   [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub
+
+*   [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
+
+*   [ttytm/logseq-allday-theme](https://github.com/ttytm/logseq-allday-theme) - A clean productivity theme. Styled for high readability and minimal eye strain.
+
+*   [mimeku/hexo-theme-cupertino](https://github.com/mimeku/hexo-theme-cupertino) - Update hexo-theme-cupertino
+
+*   [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
+
+*   [varkai/hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
+
+*   [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) - Fluent design gtk theme for linux desktops
+
+*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
+
+*   [rapiz1/typography](https://github.com/rapiz1/typography) - A Hexo theme focused on clean format and elegant reading experience.
+
+*   [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+
+*   [MrWillCom/github-dark-mode](https://github.com/MrWillCom/github-dark-mode) - The Dark Mode for GitHub.com
+
+## MDX
+
+*   [EvanNotFound/how-to-deal-with-my-crush](https://github.com/EvanNotFound/how-to-deal-with-my-crush) - 一个自以为是的情感指南
+
+*   [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
+
+*   [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui
+
+*   [CLCK0622/Shanghai-High-School-Knowledge](https://github.com/CLCK0622/Shanghai-High-School-Knowledge) - Knowledge in Shanghai standard senior high school.
+
+*   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+
+*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## Swift
 
@@ -1198,8 +1210,6 @@
 
 *   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
-*   [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
-
 *   [EvanLuo42/elements-dictionary](https://github.com/EvanLuo42/elements-dictionary) - A Dictionary of Elements Information - For Apple Dictionary
 
 *   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
@@ -1521,8 +1531,6 @@
 *   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
 *   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-
-*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 
 ## miscellaneous
 
@@ -1863,14 +1871,6 @@
 *   [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 
 *   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-
-## Markdown
-
-*   [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？
-
-*   [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-
-*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
 ## Batchfile
 
