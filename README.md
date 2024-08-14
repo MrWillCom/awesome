@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
+*   [Vim Script](#vim-script)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -38,7 +40,6 @@
 *   [EJS](#ejs)
 *   [Less](#less)
 *   [Haskell](#haskell)
-*   [Lua](#lua)
 *   [Assembly](#assembly)
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
@@ -49,14 +50,29 @@
 *   [PowerShell](#powershell)
 *   [Clojure](#clojure)
 *   [JSON](#json)
-*   [Vim script](#vim-script)
+*   [Vim script](#vim-script-1)
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
-*   [Vim Script](#vim-script-1)
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
+## Lua
+
+*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
 ## TypeScript
+
+*   [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 
 *   [Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian) - An Obsidian plugin for displaying data in a calendar similar to the github activity calendar
 
@@ -538,9 +554,9 @@
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
-*   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
-
 ## JavaScript
+
+*   [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 
 *   [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 
@@ -990,8 +1006,6 @@
 
 *   [MicrosoftEdge/MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) - Home for explainer documents originated by the Microsoft Edge team
 
-*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
-
 ## Swift
 
 *   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
@@ -1426,8 +1440,6 @@
 
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
-*   [cycz/jdBuyMask](https://github.com/cycz/jdBuyMask) - 祝大家抗疫成功
-
 ## C
 
 *   [GPGTools/pinentry](https://github.com/GPGTools/pinentry) -
@@ -1479,8 +1491,6 @@
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
-*   [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 
 ## Scheme
 
@@ -2062,12 +2072,6 @@
 
 *   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
-## Lua
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
-
 ## Assembly
 
 *   [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
@@ -2145,10 +2149,6 @@
 ## Visual Basic .NET
 
 *   [ChrisAnd1998/TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) - Center Windows taskbar icons with a variety of animations and options.
-
-## Vim Script
-
-*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## CMake
 
