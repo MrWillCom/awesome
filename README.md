@@ -59,9 +59,11 @@
 
 ## TypeScript
 
+*   [christianvmm/folderart](https://github.com/christianvmm/folderart) - Create custom folder icons for macOS.
+
 *   [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 
-*   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+*   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 
 *   [dahlia/hollo](https://github.com/dahlia/hollo) - Federated single-user microblogging software
 
@@ -1960,8 +1962,6 @@
 *   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
 *   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## Java
 
