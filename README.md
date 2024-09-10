@@ -689,6 +689,8 @@
 
 *   [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 *   [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
 
 *   [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
@@ -792,8 +794,6 @@
 *   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
 
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 
 *   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection.
 
