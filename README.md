@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [PHP](#php)
@@ -18,7 +19,6 @@
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Astro](#astro)
-*   [Kotlin](#kotlin)
 *   [CSS](#css)
 *   [C](#c)
 *   [TeX](#tex)
@@ -57,6 +57,42 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
+
+## Kotlin
+
+*   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers on your phone. ⭐️ Star to support our work!
+
+*   [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
+
+*   [SkyD666/Raca-Android](https://github.com/SkyD666/Raca-Android) - 🤗 Raca，一个在本地记录、查找抽象段落/评论区小作文的工具。基于 MVI 架构，使用 Jetpack Compose 编写，完全采用 Material You 风格。
+
+*   [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) -
+
+*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
+
+*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A fork of kabouzeid/Phonograph in maintenance and development
+
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
+
+*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
+
+*   [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) - MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe
+
+*   [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
+
+*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+
+*   [tommasoberlose/another-widget](https://github.com/tommasoberlose/another-widget) - Watch events, weather and much more at a glance.
+
+*   [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 
 ## TypeScript
 
@@ -1720,40 +1756,6 @@
 
 *   [isooosi/Astroverse-i18n](https://github.com/isooosi/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
-## Kotlin
-
-*   [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
-
-*   [SkyD666/Raca-Android](https://github.com/SkyD666/Raca-Android) - 🤗 Raca，一个在本地记录、查找抽象段落/评论区小作文的工具。基于 MVI 架构，使用 Jetpack Compose 编写，完全采用 Material You 风格。
-
-*   [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) -
-
-*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
-
-*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A fork of kabouzeid/Phonograph in maintenance and development
-
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
-
-*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
-
-*   [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) - MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe
-
-*   [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
-
-*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-
-*   [tommasoberlose/another-widget](https://github.com/tommasoberlose/another-widget) - Watch events, weather and much more at a glance.
-
-*   [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-
 ## CSS
 
 *   [MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) - LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致
@@ -2275,8 +2277,6 @@
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
 
 *   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-
-*   [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 
 ## Haskell
 
