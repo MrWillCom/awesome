@@ -446,7 +446,7 @@
 
 *   [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
-*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
@@ -1680,7 +1680,7 @@
 
 *   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 
 *   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
@@ -1754,7 +1754,7 @@
 
 ## Astro
 
-*   [idimilab/Astroverse-i18n](https://github.com/idimilab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+*   [xubianlab/Astroverse-i18n](https://github.com/xubianlab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## CSS
 
