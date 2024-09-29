@@ -76,7 +76,7 @@
 
 *   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 
-*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A fork of kabouzeid/Phonograph in maintenance and development
+*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A semi-active fork of kabouzeid/Phonograph -- a revived classic material designed music player for Android
 
 *   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
@@ -343,6 +343,8 @@
 *   [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 
 *   [Basedash/dockhunt](https://github.com/Basedash/dockhunt) - Discover the apps everyone is docking about. Made by the team at @Basedash.
+
+*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
 
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
@@ -1777,8 +1779,6 @@
 *   [daattali/oldschool-github-extension](https://github.com/daattali/oldschool-github-extension) - Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
 *   [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
-
-*   [AniList/ApiV2-GraphQL-Docs](https://github.com/AniList/ApiV2-GraphQL-Docs) - AniList API V2 GraphQL Documentation
 
 *   [catppuccin/elk](https://github.com/catppuccin/elk) - 🐘 Soothing pastel theme for Elk
 
