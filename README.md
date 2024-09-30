@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
-*   [TypeScript](#typescript)
 *   [Swift](#swift)
+*   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Vue](#vue)
@@ -58,43 +58,129 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
-## Kotlin
+## Swift
 
-*   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers on your phone. ⭐️ Star to support our work!
+*   [maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 
-*   [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
+*   [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
 
-*   [SkyD666/Raca-Android](https://github.com/SkyD666/Raca-Android) - 🤗 Raca，一个在本地记录、查找抽象段落/评论区小作文的工具。基于 MVI 架构，使用 Jetpack Compose 编写，完全采用 Material You 风格。
+*   [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
 
-*   [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) -
+*   [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
 
-*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+*   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 
-*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+*   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 
-*   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
+*   [BigBerny/magicquit](https://github.com/BigBerny/magicquit) -
 
-*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A semi-active fork of kabouzeid/Phonograph -- a revived classic material designed music player for Android
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+*   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 
-*   [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
+*   [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 
-*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
+*   [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
 
-*   [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) - MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 
-*   [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 
-*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 
-*   [tommasoberlose/another-widget](https://github.com/tommasoberlose/another-widget) - Watch events, weather and much more at a glance.
+*   [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 
-*   [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+*   [27Saumya/Macboard](https://github.com/27Saumya/Macboard) - A minimalistic clipboard manager for macOS
+
+*   [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
+
+*   [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+
+*   [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
+
+*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
+
+*   [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
+
+*   [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
+
+*   [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
+
+*   [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
+
+*   [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
+
+*   [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。
+
+*   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
+
+*   [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
+
+*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
+
+*   [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
+
+*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+
+*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+
+*   [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
+
+*   [MrWillCom/happy-birthday-to-aeilot-2022](https://github.com/MrWillCom/happy-birthday-to-aeilot-2022) - Happy Birthday! @aeilot
+
+*   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
+*   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
+
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
+
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+
+*   [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
+
+*   [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
+
+*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
+
+*   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
+
+*   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 ## TypeScript
+
+*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 *   [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 
@@ -662,123 +748,41 @@
 
 *   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 
-## Swift
+## Kotlin
 
-*   [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
+*   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers on your phone. ⭐️ Star to support our work!
 
-*   [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
+*   [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 
-*   [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
+*   [SkyD666/Raca-Android](https://github.com/SkyD666/Raca-Android) - 🤗 Raca，一个在本地记录、查找抽象段落/评论区小作文的工具。基于 MVI 架构，使用 Jetpack Compose 编写，完全采用 Material You 风格。
 
-*   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+*   [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) -
 
-*   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 
-*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 
-*   [BigBerny/magicquit](https://github.com/BigBerny/magicquit) -
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+*   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
 
-*   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
+*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A semi-active fork of kabouzeid/Phonograph -- a revived classic material designed music player for Android
 
-*   [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
-*   [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
+*   [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
 
-*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
+*   [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
 
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+*   [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) - MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe
 
-*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+*   [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard
 
-*   [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
+*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
-*   [27Saumya/Macboard](https://github.com/27Saumya/Macboard) - A minimalistic clipboard manager for macOS
+*   [tommasoberlose/another-widget](https://github.com/tommasoberlose/another-widget) - Watch events, weather and much more at a glance.
 
-*   [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
-
-*   [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-
-*   [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
-
-*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-
-*   [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
-
-*   [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
-
-*   [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
-
-*   [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
-
-*   [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
-
-*   [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。
-
-*   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
-
-*   [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
-
-*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-
-*   [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
-
-*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
-
-*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-
-*   [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
-
-*   [MrWillCom/happy-birthday-to-aeilot-2022](https://github.com/MrWillCom/happy-birthday-to-aeilot-2022) - Happy Birthday! @aeilot
-
-*   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-*   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-
-*   [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-
-*   [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
-
-*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
-
-*   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
-
-*   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+*   [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 
 ## PHP
 
@@ -851,8 +855,6 @@
 *   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
 
 *   [MicrosoftEdge/MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) - Home for explainer documents originated by the Microsoft Edge team
-
-*   [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 
 ## Vue
 
@@ -999,8 +1001,6 @@
 *   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
 
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [cycz/jdBuyMask](https://github.com/cycz/jdBuyMask) - 祝大家抗疫成功
 
 ## Rust
 
