@@ -60,6 +60,8 @@
 
 ## TypeScript
 
+*   [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
+
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 
 *   [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
@@ -881,8 +883,6 @@
 *   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 
 *   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
 ## Kotlin
 
@@ -1766,7 +1766,7 @@
 
 ## Astro
 
-*   [xubianlab/Astroverse-i18n](https://github.com/xubianlab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+*   [zlzai/Astroverse-i18n](https://github.com/zlzai/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## CSS
 
