@@ -1766,7 +1766,7 @@
 
 ## Astro
 
-*   [zlzai/Astroverse-i18n](https://github.com/zlzai/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
+*   [zbzailab/Astroverse-i18n](https://github.com/zbzailab/Astroverse-i18n) - An Astro theme designed for impactful image-text blogging, now enhanced with multilingual support. Perfect for global content creators aiming to reach a diverse audience.
 
 ## CSS
 
