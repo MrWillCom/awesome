@@ -23,9 +23,9 @@
 *   [C](#c)
 *   [TeX](#tex)
 *   [Stylus](#stylus)
+*   [C++](#c-1)
 *   [Lua](#lua)
 *   [Vim Script](#vim-script)
-*   [C++](#c-1)
 *   [Scheme](#scheme)
 *   [Markdown](#markdown)
 *   [MDX](#mdx)
@@ -1660,8 +1660,6 @@
 
 *   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-
 *   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
 
 *   [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1904,21 +1902,9 @@
 
 *   [FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white) - A Pure Theme For Hexo
 
-## Lua
-
-*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
-
-## Vim Script
-
-*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
 ## C++
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 *   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 
@@ -1987,6 +1973,20 @@
 *   [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 *   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+
+## Lua
+
+*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## Scheme
 
