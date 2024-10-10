@@ -6,12 +6,13 @@
 
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
-*   [Rust](#rust)
+*   [Dart](#dart)
 *   [Swift](#swift)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
+*   [Rust](#rust)
 *   [Objective-C](#objective-c)
 *   [JavaScript](#javascript)
 *   [Svelte](#svelte)
@@ -23,14 +24,13 @@
 *   [C](#c)
 *   [TeX](#tex)
 *   [Stylus](#stylus)
-*   [C++](#c-1)
 *   [Lua](#lua)
 *   [Vim Script](#vim-script)
+*   [C++](#c-1)
 *   [Scheme](#scheme)
 *   [Markdown](#markdown)
 *   [MDX](#mdx)
 *   [Ruby](#ruby)
-*   [Dart](#dart)
 *   [PostScript](#postscript)
 *   [C#](#c-2)
 *   [Java](#java)
@@ -684,87 +684,41 @@
 
 *   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
-## Rust
+## Dart
 
 *   [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 
-*   [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
+*   [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
 
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+*   [bdlukaa/fluent\_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+*   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 
-*   [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 
-*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 
-*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
 
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+*   [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 
-*   [ryanccn/am](https://github.com/ryanccn/am) - A beautiful and feature-packed Apple Music CLI
+*   [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
 
-*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+*   [rikulo/socket.io-client-dart](https://github.com/rikulo/socket.io-client-dart) - socket.io-client-dart: Dartlang port of socket.io-client https://github.com/socketio/socket.io-client
 
-*   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+*   [maoqitian/flutter\_wanandroid](https://github.com/maoqitian/flutter_wanandroid) - :pizza:让你随时随地都能愉快学习、进阶Android技术的跨平台WanAndroid客户端。Android、ios完美运行，主题切换，统一数据加载封装，功能丰富完整、适合日常学习和使用。同款Java版本：https://github.com/maoqitian/MaoWanAndoidClient
 
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+*   [OldMetalmind/cloom\_clock](https://github.com/OldMetalmind/cloom_clock) - My participation on the Flutter Clock Challenge of 2020 with Francisco Frutuoso design
 
-*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+*   [miickel/flutter\_particle\_clock](https://github.com/miickel/flutter_particle_clock) - The Grand Prize-winning entry of the #FlutterClock challenge.
 
-*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+*   [fmtjava/Flutter\_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer) - Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!
 
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-
-*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [sindresorhus/windows-wallpaper](https://github.com/sindresorhus/windows-wallpaper) - Manage the desktop wallpaper on Windows
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
 
 ## Swift
 
@@ -1093,6 +1047,86 @@
 *   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
 
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+## Rust
+
+*   [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+
+*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [ryanccn/am](https://github.com/ryanccn/am) - A beautiful and feature-packed Apple Music CLI
+
+*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+
+*   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+
+*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
+
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [sindresorhus/windows-wallpaper](https://github.com/sindresorhus/windows-wallpaper) - Manage the desktop wallpaper on Windows
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 
 ## Objective-C
 
@@ -1660,6 +1694,8 @@
 
 *   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
 
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+
 *   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
 
 *   [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
@@ -1902,9 +1938,21 @@
 
 *   [FuShaoLei/hexo-theme-white](https://github.com/FuShaoLei/hexo-theme-white) - A Pure Theme For Hexo
 
-## C++
+## Lua
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+## C++
 
 *   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 
@@ -1974,20 +2022,6 @@
 
 *   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 
-## Lua
-
-*   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
-
-## Vim Script
-
-*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-*   [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
 ## Scheme
 
 *   [dangh/zed-ejs](https://github.com/dangh/zed-ejs) - EJS template syntax for Zed
@@ -2027,40 +2061,6 @@
 *   [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 
 *   [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
-
-## Dart
-
-*   [NamanShergill/diohub](https://github.com/NamanShergill/diohub) - An open-source unofficial GitHub mobile client, that aims to deliver the ultimate GitHub experience on mobile devices.
-
-*   [bdlukaa/fluent\_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
-
-*   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-
-*   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [alesimula/wsa\_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA)
-
-*   [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
-
-*   [pd4d10/git-touch](https://github.com/pd4d10/git-touch) - An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter
-
-*   [rikulo/socket.io-client-dart](https://github.com/rikulo/socket.io-client-dart) - socket.io-client-dart: Dartlang port of socket.io-client https://github.com/socketio/socket.io-client
-
-*   [maoqitian/flutter\_wanandroid](https://github.com/maoqitian/flutter_wanandroid) - :pizza:让你随时随地都能愉快学习、进阶Android技术的跨平台WanAndroid客户端。Android、ios完美运行，主题切换，统一数据加载封装，功能丰富完整、适合日常学习和使用。同款Java版本：https://github.com/maoqitian/MaoWanAndoidClient
-
-*   [OldMetalmind/cloom\_clock](https://github.com/OldMetalmind/cloom_clock) - My participation on the Flutter Clock Challenge of 2020 with Francisco Frutuoso design
-
-*   [miickel/flutter\_particle\_clock](https://github.com/miickel/flutter_particle_clock) - The Grand Prize-winning entry of the #FlutterClock challenge.
-
-*   [fmtjava/Flutter\_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer) - Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!
-
-*   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
 
 ## PostScript
 
