@@ -2228,7 +2228,7 @@
 
 *   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 
