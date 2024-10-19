@@ -1728,7 +1728,7 @@
 
 *   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 
 *   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
