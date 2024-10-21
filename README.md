@@ -98,8 +98,6 @@
 
 *   [dahlia/hollo](https://github.com/dahlia/hollo) - Federated single-user microblogging software
 
-*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-
 *   [zilewang7/LiteLoaderQQNT-Esc-Shortcut-Key](https://github.com/zilewang7/LiteLoaderQQNT-Esc-Shortcut-Key) - 在 QQNT 中使用 esc 来返回上一级 (退出当前聊天)
 
 *   [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
@@ -641,6 +639,8 @@
 *   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 
 *   [yoavbls/web-chaos-graph](https://github.com/yoavbls/web-chaos-graph) - Excalidraw graph showing major web tools and frameworks dependencies
+
+*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 
 *   [hexojs/hexo-theme-unit-test](https://github.com/hexojs/hexo-theme-unit-test) - This is a dummy Hexo site for theme unit test. You should test your theme before release.
 
