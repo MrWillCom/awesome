@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
@@ -58,197 +58,9 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
-## Rust
-
-*   [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
-
-*   [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
-
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - \[Deprecated]  An early language server for Typst, plus a VS Code extension
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-
-*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-
-*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [ryanccn/am](https://github.com/ryanccn/am) - A beautiful and feature-packed Apple Music CLI
-
-*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-
-*   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-
-*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-
-*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-
-*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
-
-*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-
-*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
-
-*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [sindresorhus/windows-wallpaper](https://github.com/sindresorhus/windows-wallpaper) - Manage the desktop wallpaper on Windows
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-
-## miscellaneous
-
-*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
-
-*   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
-
-*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
-
-*   [yoavbls/web-chaos-graph](https://github.com/yoavbls/web-chaos-graph) - Excalidraw graph showing major web tools and frameworks dependencies
-
-*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-
-*   [hexojs/hexo-theme-unit-test](https://github.com/hexojs/hexo-theme-unit-test) - This is a dummy Hexo site for theme unit test. You should test your theme before release.
-
-*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
-
-*   [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
-
-*   [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -
-
-*   [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
-
-*   [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
-
-*   [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
-
-*   [lauridskern/open-runde](https://github.com/lauridskern/open-runde) - A soft, rounded variant of Inter
-
-*   [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
-
-*   [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
-
-*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
-
-*   [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-
-*   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
-
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-*   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
-
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-
-*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
-
-*   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
-
-*   [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest) - Hacktoberfest OPEN FIRST Pull Request 🎉
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
-
-*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-
-*   [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
-
-*   [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
-
-*   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
-
-*   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-
-*   [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
-
-*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-*   [geekywrites/datascience](https://github.com/geekywrites/datascience) - This repository is a compilation of free resources for learning Data Science.
-
-*   [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
-
-*   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
-
-*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
-
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-
-*   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
-
-*   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
-
-*   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
 ## TypeScript
+
+*   [NativeScript/template-macos-solid](https://github.com/NativeScript/template-macos-solid) - Develop macOS 💻 with Solid
 
 *   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 
@@ -266,7 +78,7 @@
 
 *   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
-*   [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+*   [OctoputApp/Yaak](https://github.com/OctoputApp/Yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 
 *   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
@@ -304,7 +116,7 @@
 
 *   [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 
-*   [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
+*   [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
 
 *   [tinybirdco/web-analytics-starter-kit](https://github.com/tinybirdco/web-analytics-starter-kit) - Tinybird Web Analytics Starter Kit
 
@@ -824,7 +636,195 @@
 
 *   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
-*   [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
+## Rust
+
+*   [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
+
+*   [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - \[Deprecated]  An early language server for Typst, plus a VS Code extension
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
+
+*   [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+
+*   [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [ryanccn/am](https://github.com/ryanccn/am) - A beautiful and feature-packed Apple Music CLI
+
+*   [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+
+*   [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+
+*   [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+
+*   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+
+*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [Helixform/TeleGPT](https://github.com/Helixform/TeleGPT) - An out-of-box ChatGPT bot for Telegram.
+
+*   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+*   [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
+
+*   [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [sindresorhus/windows-wallpaper](https://github.com/sindresorhus/windows-wallpaper) - Manage the desktop wallpaper on Windows
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+
+## miscellaneous
+
+*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+
+*   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
+
+*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+
+*   [yoavbls/web-chaos-graph](https://github.com/yoavbls/web-chaos-graph) - Excalidraw graph showing major web tools and frameworks dependencies
+
+*   [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+
+*   [hexojs/hexo-theme-unit-test](https://github.com/hexojs/hexo-theme-unit-test) - This is a dummy Hexo site for theme unit test. You should test your theme before release.
+
+*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
+
+*   [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+
+*   [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -
+
+*   [revoltchat/revolt](https://github.com/revoltchat/revolt) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
+
+*   [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
+
+*   [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
+
+*   [lauridskern/open-runde](https://github.com/lauridskern/open-runde) - A soft, rounded variant of Inter
+
+*   [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
+
+*   [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
+
+*   [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+
+*   [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+
+*   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
+
+*   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
+
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+
+*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
+
+*   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
+
+*   [ossamamehmood/Hacktoberfest](https://github.com/ossamamehmood/Hacktoberfest) - Hacktoberfest OPEN FIRST Pull Request 🎉
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
+
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+
+*   [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
+
+*   [ShameCom/ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
+
+*   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
+
+*   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+
+*   [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
+
+*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+*   [geekywrites/datascience](https://github.com/geekywrites/datascience) - This repository is a compilation of free resources for learning Data Science.
+
+*   [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+
+*   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
+
+*   [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+
+*   [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
+
+*   [MrWillCom/MrWillCom.github.io](https://github.com/MrWillCom/MrWillCom.github.io) - Mr. Will's Blog
+
+*   [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [996browser/996.BROWSER](https://github.com/996browser/996.BROWSER) - 屏蔽996.icu的浏览器列表
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 ## Dart
 
@@ -1006,7 +1006,7 @@
 
 *   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 
-*   [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 
 *   [RimoChan/i7h](https://github.com/RimoChan/i7h) - 【i18nglish】自动i18n！
 
