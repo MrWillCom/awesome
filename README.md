@@ -130,7 +130,7 @@
 
 *   [NativeScript/template-macos-solid](https://github.com/NativeScript/template-macos-solid) - Develop macOS 💻 with Solid
 
-*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 
 *   [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 
