@@ -146,7 +146,7 @@
 
 *   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
-*   [getyaak/app](https://github.com/getyaak/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+*   [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 
 *   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
@@ -413,6 +413,8 @@
 *   [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
 *   [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 *   [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 
@@ -1429,8 +1431,6 @@
 *   [Hsiao-Feng/Periodic-Table](https://github.com/Hsiao-Feng/Periodic-Table) - HTML5 3D 科技风格元素周期表。
 
 *   [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
-
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
