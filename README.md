@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Rust](#rust)
@@ -17,7 +18,6 @@
 *   [PHP](#php)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
-*   [Svelte](#svelte)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Astro](#astro)
@@ -57,6 +57,18 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
+
+## Svelte
+
+*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
+
+*   [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
+
+*   [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
 ## TypeScript
 
@@ -639,8 +651,6 @@
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
 *   [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
-
-*   [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## C++
 
@@ -1751,16 +1761,6 @@
 *   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
 *   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-
-## Svelte
-
-*   [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
-
-*   [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
 ## Go
 
