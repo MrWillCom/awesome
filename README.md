@@ -280,8 +280,6 @@
 
 *   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 
-*   [ShenQingchuan/meditate](https://github.com/ShenQingchuan/meditate) - Aim to be a powerful slack-off CLI application.
-
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
 *   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
@@ -297,8 +295,6 @@
 *   [mathquill/mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
 
 *   [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
-
-*   [ryanccn/olek](https://github.com/ryanccn/olek) - Status page.
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
@@ -640,6 +636,8 @@
 
 *   [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 
+*   [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
+
 ## miscellaneous
 
 *   [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
@@ -945,6 +943,8 @@
 *   [OldMetalmind/cloom\_clock](https://github.com/OldMetalmind/cloom_clock) - My participation on the Flutter Clock Challenge of 2020 with Francisco Frutuoso design
 
 *   [miickel/flutter\_particle\_clock](https://github.com/miickel/flutter_particle_clock) - The Grand Prize-winning entry of the #FlutterClock challenge.
+
+*   [fmtjava/Flutter\_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer) - Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!
 
 ## Swift
 
