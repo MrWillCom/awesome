@@ -278,7 +278,7 @@
 
 *   [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 
-*   [christianvmm/folderart](https://github.com/christianvmm/folderart) - Create custom folder icons for macOS.
+*   [christianvmm/folderart](https://github.com/christianvmm/folderart) - Custom folder icons for macOS.
 
 *   [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 
@@ -728,7 +728,7 @@
 
 *   [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 
-*   [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic emulator that connects to Apple Music and Spotify. Built with React & Styled Components
+*   [tvillarete/ipod-classic-js](https://github.com/tvillarete/ipod-classic-js) - An iPod Classic simulator that connects to Apple Music and Spotify. Built with React & Styled Components
 
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
@@ -1464,7 +1464,7 @@
 
 *   [knksmith57/hexo-renderer-sass](https://github.com/knksmith57/hexo-renderer-sass) - Sass renderer plugin for Hexo
 
-*   [deadlyjack/Acode](https://github.com/deadlyjack/Acode) - Acode - powerful text/code editor for android
+*   [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 
 *   [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 
@@ -1620,7 +1620,7 @@
 
 *   [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
 
-*   [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
+*   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 
 *   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
 
