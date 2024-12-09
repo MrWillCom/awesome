@@ -42,7 +42,6 @@
 *   [Roff](#roff)
 *   [EJS](#ejs)
 *   [Less](#less)
-*   [Haskell](#haskell)
 *   [Assembly](#assembly)
 *   [Batchfile](#batchfile)
 *   [PowerShell](#powershell)
@@ -56,6 +55,7 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+*   [Haskell](#haskell)
 *   [Fluent](#fluent)
 
 ## CSS
@@ -1306,6 +1306,8 @@
 
 *   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 
+*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 *   [saikou-app/saikou](https://github.com/saikou-app/saikou) - An Android Anilist client, which lets you stream & download Anime & Manga.
@@ -2278,12 +2280,6 @@
 
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
 
-## Haskell
-
-*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-
-*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-
 ## Assembly
 
 *   [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
@@ -2359,6 +2355,10 @@
 ## CMake
 
 *   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
+## Haskell
+
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## Fluent
 
