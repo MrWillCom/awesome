@@ -1496,7 +1496,7 @@
 
 *   [wfjsw/VP-StableDiffusionBook](https://github.com/wfjsw/VP-StableDiffusionBook) - AI 作图知识库
 
-*   [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+*   [vasanthv/hello](https://github.com/vasanthv/hello) - Group video call for the web. No signups. No downloads.
 
 *   [merdok/homebridge-miot](https://github.com/merdok/homebridge-miot) - Homebridge plugin for devices supporting the Xiaomi miot protocol
 
