@@ -4,6 +4,9 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
+*   [Vue](#vue)
+*   [HTML](#html)
 *   [TeX](#tex)
 *   [C++](#c)
 *   [CSS](#css)
@@ -15,10 +18,8 @@
 *   [Dart](#dart)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
-*   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [PHP](#php)
-*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -56,6 +57,114 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 *   [Haskell](#haskell)
+
+## Zig
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+
+## Vue
+
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [atinux/npm-chart](https://github.com/atinux/npm-chart) - Visualize npm downloads in a beautiful chart, ready to be shared with your community.
+
+*   [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [Akegarasu/stable-diffusion-inspector](https://github.com/Akegarasu/stable-diffusion-inspector) - read pnginfo in stable diffusion generated images / inspect models
+
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
+
+*   [CatsJuice/me](https://github.com/CatsJuice/me) - Personal profile
+
+*   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
+
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
+
+*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+
+*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+
+*   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
+
+*   [rebornix/logseq-open-in-code](https://github.com/rebornix/logseq-open-in-code) -
+
+*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
+
+*   [xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar) - A journals calendar for Logseq.
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [qier222/currency-app](https://github.com/qier222/currency-app) - The Ultimate Currency Converter 🤑
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
+
+*   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
+
+## HTML
+
+*   [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+
+*   [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
+
+*   [hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn](https://github.com/hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn) - 本插件隐藏QQNT侧栏部位，并在顶部添加快速显示/隐藏按钮，带来纯纯的聊天模式
+
+*   [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [vercel/geist-font](https://github.com/vercel/geist-font) -
+
+*   [meichthys/foss\_photo\_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
+
+*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
+
+*   [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) -
+
+*   [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
+
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+
+*   [CLCK0622/TensorFlow-MobileNet-Starter-Program](https://github.com/CLCK0622/TensorFlow-MobileNet-Starter-Program) - A starter AI program (online demo) using TensorFlow MobileNet, which features image processing.
+
+*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
+
+*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
+
+*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
+*   [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
+
+*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
+*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
 
 ## TeX
 
@@ -533,11 +642,11 @@
 
 *   [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 
 *   [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
-*   [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+*   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 
 *   [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 
@@ -886,8 +995,6 @@
 *   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 
 *   [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
-
-*   [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 
 ## miscellaneous
 
@@ -1255,52 +1362,6 @@
 
 *   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
-## Vue
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [atinux/npm-chart](https://github.com/atinux/npm-chart) - Visualize npm downloads in a beautiful chart, ready to be shared with your community.
-
-*   [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
-
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
-
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [Akegarasu/stable-diffusion-inspector](https://github.com/Akegarasu/stable-diffusion-inspector) - read pnginfo in stable diffusion generated images / inspect models
-
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-
-*   [CatsJuice/me](https://github.com/CatsJuice/me) - Personal profile
-
-*   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
-
-*   [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
-
-*   [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-
-*   [elrumo/icon-brew](https://github.com/elrumo/icon-brew) - A free and open source icon pack. With hundreds of icons and new ones being added weekly.
-
-*   [rebornix/logseq-open-in-code](https://github.com/rebornix/logseq-open-in-code) -
-
-*   [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-
-*   [xyhp915/logseq-journals-calendar](https://github.com/xyhp915/logseq-journals-calendar) - A journals calendar for Logseq.
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [qier222/currency-app](https://github.com/qier222/currency-app) - The Ultimate Currency Converter 🤑
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
-
-*   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
-
 ## Kotlin
 
 *   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers / meme on your phone. ⭐️ Star to support our work!
@@ -1352,60 +1413,6 @@
 *   [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-## HTML
-
-*   [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
-
-*   [hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn](https://github.com/hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn) - 本插件隐藏QQNT侧栏部位，并在顶部添加快速显示/隐藏按钮，带来纯纯的聊天模式
-
-*   [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [vercel/geist-font](https://github.com/vercel/geist-font) -
-
-*   [meichthys/foss\_photo\_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
-
-*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
-
-*   [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) -
-
-*   [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
-
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
-
-*   [CLCK0622/TensorFlow-MobileNet-Starter-Program](https://github.com/CLCK0622/TensorFlow-MobileNet-Starter-Program) - A starter AI program (online demo) using TensorFlow MobileNet, which features image processing.
-
-*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
-
-*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
-
-*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-
-*   [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-
-*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
-
-*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
-*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
 
 ## JavaScript
 
@@ -1827,8 +1834,6 @@
 
 *   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
-*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-
 ## Go
 
 *   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -2182,8 +2187,6 @@
 *   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
 
 *   [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
-
-*   [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 
 ## Java
 
