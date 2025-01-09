@@ -315,6 +315,8 @@
 
 *   [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 
+*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+
 *   [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -1107,8 +1109,6 @@
 
 *   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 
-*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
@@ -1871,7 +1871,7 @@
 
 *   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 
 *   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
 
