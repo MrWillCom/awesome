@@ -685,7 +685,7 @@
 
 ## JavaScript
 
-*   [meceware/wapy.dev](https://github.com/meceware/wapy.dev) - Track, manage, and optimize your recurring expenses in one powerful and human readable dashboard.
+*   [meceware/wapy.dev](https://github.com/meceware/wapy.dev) - Track, manage and optimize your recurring expenses in one powerful and human readable dashboard.
 
 *   [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 
