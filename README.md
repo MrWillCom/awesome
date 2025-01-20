@@ -657,7 +657,7 @@
 
 *   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 
 *   [floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk) - Space Grotesk: a proportional variant of the original fixed-width Space Mono family
 
