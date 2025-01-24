@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -37,7 +38,6 @@
 *   [Ruby](#ruby)
 *   [PostScript](#postscript)
 *   [C#](#c-2)
-*   [Java](#java)
 *   [Nim](#nim)
 *   [Elixir](#elixir)
 *   [VBScript](#vbscript)
@@ -57,6 +57,62 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+
+## Java
+
+*   [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+
+*   [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
+
+*   [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [linesoft2/open2share](https://github.com/linesoft2/open2share) - An Android app that can convert open(view) files to share(send) files.
+
+*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+
+*   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+
+*   [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+
+*   [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
+
+*   [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
+
+*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+
+*   [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
+
+*   [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
+
+*   [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
+
+*   [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) - A Minecraft Fabric mod that that aims to add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.
+
+*   [MrShieh-X/console-minecraft-launcher](https://github.com/MrShieh-X/console-minecraft-launcher) - 一个在命令行上运行的 Minecraft Java 版启动器 A Minecraft Java Edition Launcher Running on the Command Line
+
+*   [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+
+*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+
+*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
+
+*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
+
+*   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
+
+*   [devallever/TranslationTextOpenSource](https://github.com/devallever/TranslationTextOpenSource) - 介绍 【文本翻译器】是一款免费的简洁实用的翻译软件。文本翻译器应用程序完全免费，可以非常快速翻译您的单词，帮助您与外国人交流。文本翻译器适用于旅行者、学生、商人和其他语言爱好者，使用文本翻译器可以轻松了解其他语言。文本翻译器支持多国语言，全新领先的翻译引擎，让各种变得更加可靠有保证。界面设计简洁、优雅，体积小巧，但是功能很强大哦。赶快下载来试试吧~  功能特点： \*【词典解析】除了基本的翻译外，提供更详细的词典功能，词性分类 \*【多语言】目前支持主流语言：中文，中文繁体，英语，日语，法语，德语 \*【单词本】收藏喜欢的单词 \*【历史记录】记录翻译记录 \*【离线翻译】如果已经翻译过的即使没有网络也能翻译 \*【数据备份和恢复】备份历史翻译记录和恢复记录 \*【自动朗读】翻译后为您朗读 \*【自动复制】将翻译文本自动复制到剪贴板 \*【全局复制查词】在任何界面点复制就能查单词 \*【免费】使用功能过程中完全免费 \*【界面简洁】界面设计优雅、简洁
 
 ## JavaScript
 
@@ -1222,7 +1278,7 @@
 
 *   [SnowballXueQiu/sb.h](https://github.com/SnowballXueQiu/sb.h) - sb.h —— 让你的 C++ 代码秒变“优秀”！
 
-*   [Beep6581/RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program
+*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
 
 *   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 
@@ -1762,8 +1818,6 @@
 
 *   [OldMetalmind/cloom\_clock](https://github.com/OldMetalmind/cloom_clock) - My participation on the Flutter Clock Challenge of 2020 with Francisco Frutuoso design
 
-*   [miickel/flutter\_particle\_clock](https://github.com/miickel/flutter_particle_clock) - The Grand Prize-winning entry of the #FlutterClock challenge.
-
 ## Swift
 
 *   [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
@@ -2203,60 +2257,6 @@
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 *   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-## Java
-
-*   [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
-
-*   [AndroidIDEOfficial/AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps.
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [linesoft2/open2share](https://github.com/linesoft2/open2share) - An Android app that can convert open(view) files to share(send) files.
-
-*   [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
-
-*   [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
-
-*   [IrisShaders/Iris](https://github.com/IrisShaders/Iris) - A modern shaders mod for Minecraft compatible with existing OptiFine shader packs
-
-*   [ReplayMod/ReplayMod](https://github.com/ReplayMod/ReplayMod) - Minecraft ReplayMod
-
-*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
-
-*   [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
-
-*   [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
-
-*   [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
-
-*   [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
-
-*   [Additional-Mods/additionaladditions](https://github.com/Additional-Mods/additionaladditions) - A Minecraft Fabric mod that that aims to add additional uses for Copper, Amethyst and Glow Ink Sacs as well as other useful additional additions to the game.
-
-*   [MrShieh-X/console-minecraft-launcher](https://github.com/MrShieh-X/console-minecraft-launcher) - 一个在命令行上运行的 Minecraft Java 版启动器 A Minecraft Java Edition Launcher Running on the Command Line
-
-*   [FabricMC/fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
-
-*   [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
-
-*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
-
-*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
-
-*   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
-
-*   [devallever/TranslationTextOpenSource](https://github.com/devallever/TranslationTextOpenSource) - 介绍 【文本翻译器】是一款免费的简洁实用的翻译软件。文本翻译器应用程序完全免费，可以非常快速翻译您的单词，帮助您与外国人交流。文本翻译器适用于旅行者、学生、商人和其他语言爱好者，使用文本翻译器可以轻松了解其他语言。文本翻译器支持多国语言，全新领先的翻译引擎，让各种变得更加可靠有保证。界面设计简洁、优雅，体积小巧，但是功能很强大哦。赶快下载来试试吧~  功能特点： \*【词典解析】除了基本的翻译外，提供更详细的词典功能，词性分类 \*【多语言】目前支持主流语言：中文，中文繁体，英语，日语，法语，德语 \*【单词本】收藏喜欢的单词 \*【历史记录】记录翻译记录 \*【离线翻译】如果已经翻译过的即使没有网络也能翻译 \*【数据备份和恢复】备份历史翻译记录和恢复记录 \*【自动朗读】翻译后为您朗读 \*【自动复制】将翻译文本自动复制到剪贴板 \*【全局复制查词】在任何界面点复制就能查单词 \*【免费】使用功能过程中完全免费 \*【界面简洁】界面设计优雅、简洁
 
 ## Nim
 
