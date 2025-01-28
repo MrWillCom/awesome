@@ -226,7 +226,7 @@
 
 *   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 
-*   [dahlia/hollo](https://github.com/dahlia/hollo) - Federated single-user microblogging software
+*   [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 
 *   [zilewang7/LiteLoaderQQNT-Esc-Shortcut-Key](https://github.com/zilewang7/LiteLoaderQQNT-Esc-Shortcut-Key) - 在 QQNT 中使用 esc 来返回上一级 (退出当前聊天)
 
@@ -256,7 +256,7 @@
 
 *   [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 
-*   [dahlia/fedify](https://github.com/dahlia/fedify) - ActivityPub server framework in TypeScript
+*   [fedify-dev/fedify](https://github.com/fedify-dev/fedify) - ActivityPub server framework in TypeScript
 
 *   [sheepzh/timer](https://github.com/sheepzh/timer) - Time Tracker/网费很贵, to be the best time tracker for browsers
 
@@ -2018,7 +2018,7 @@
 
 *   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 
 *   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
 
