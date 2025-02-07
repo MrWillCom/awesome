@@ -16,7 +16,6 @@
 *   [Shell](#shell)
 *   [Pug](#pug)
 *   [C++](#c-1)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [MDX](#mdx)
 *   [Astro](#astro)
 *   [Svelte](#svelte)
@@ -39,6 +38,7 @@
 *   [PostScript](#postscript)
 *   [C#](#c-2)
 *   [Nim](#nim)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Elixir](#elixir)
 *   [VBScript](#vbscript)
 *   [Roff](#roff)
@@ -678,7 +678,7 @@
 
 *   [moegi-design/vscode-theme](https://github.com/moegi-design/vscode-theme) - 🌸 An elegant theme for VS Code.
 
-*   [subframe7536/vscode-theme-maple](https://github.com/subframe7536/vscode-theme-maple) - Colorful VSCode theme in light / dark, medium brightness and saturation
+*   [subframe7536/vscode-theme-maple](https://github.com/subframe7536/vscode-theme-maple) - A colorful VSCode theme, support light or dark mode, with medium brightness and low saturation.
 
 *   [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) - 🏕 Vitesse theme for VS Code
 
@@ -1340,6 +1340,8 @@
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
+*   [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+
 *   [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
 
 *   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -1715,22 +1717,6 @@
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 *   [leihui6/marksentence](https://github.com/leihui6/marksentence) - 一个标记托福考试听力句子的工具（精听工具）
-
-## Jupyter Notebook
-
-*   [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
-
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-
-*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-
-*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
-
-*   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
-
-*   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
-
-*   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 
 ## MDX
 
@@ -2261,6 +2247,20 @@
 ## Nim
 
 *   [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+
+## Jupyter Notebook
+
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+
+*   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
+
+*   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
+
+*   [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
+
+*   [nfmcclure/tensorflow\_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) - Code for Tensorflow Machine Learning Cookbook
 
 ## Elixir
 
