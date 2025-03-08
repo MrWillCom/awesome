@@ -818,7 +818,7 @@
 
 *   [ecmel/prettier-plugin-ejs](https://github.com/ecmel/prettier-plugin-ejs) - Prettier EJS Plugin
 
-*   [mamboer/hexo-renderer-scss](https://github.com/mamboer/hexo-renderer-scss) - Yet Another Sass renderer plugin for Hexo.
+*   [aispin/hexo-renderer-scss](https://github.com/aispin/hexo-renderer-scss) - Yet Another Sass renderer plugin for Hexo.
 
 *   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
