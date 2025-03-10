@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
@@ -14,10 +15,9 @@
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
-*   [C](#c)
+*   [C](#c-1)
 *   [Shell](#shell)
 *   [Pug](#pug)
-*   [C++](#c-1)
 *   [MDX](#mdx)
 *   [Astro](#astro)
 *   [Svelte](#svelte)
@@ -57,6 +57,78 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+
+## C++
+
+*   [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
+
+*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+*   [SnowballXueQiu/sb.h](https://github.com/SnowballXueQiu/sb.h) - sb.h —— 让你的 C++ 代码秒变“优秀”！
+
+*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
+
+*   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
+
+*   [GPGTools/pinentry](https://github.com/GPGTools/pinentry) -
+
+*   [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+
+*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
+
+*   [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [aeilot/lsnotes](https://github.com/aeilot/lsnotes) - Add a description to your directories!
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+
+*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
+
+*   [aeilot/ProblemSet](https://github.com/aeilot/ProblemSet) - My OI Problems
+
+*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+
+*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
+
+*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+
+*   [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## JavaScript
 
@@ -1188,8 +1260,6 @@
 
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
-*   [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-
 ## CSS
 
 *   [open-spaced-repetition/anki-manual-zh-CN](https://github.com/open-spaced-repetition/anki-manual-zh-CN) - Anki 用户手册（中文翻译）
@@ -1789,76 +1859,6 @@
 ## Pug
 
 *   [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
-
-## C++
-
-*   [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-
-*   [SnowballXueQiu/sb.h](https://github.com/SnowballXueQiu/sb.h) - sb.h —— 让你的 C++ 代码秒变“优秀”！
-
-*   [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
-
-*   [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-
-*   [GPGTools/pinentry](https://github.com/GPGTools/pinentry) -
-
-*   [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-
-*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
-*   [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
-
-*   [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-
-*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
-
-*   [aeilot/lsnotes](https://github.com/aeilot/lsnotes) - Add a description to your directories!
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [qw3rtty/neix](https://github.com/qw3rtty/neix) - neix - a RSS/Atom feed reader for your terminal.
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-
-*   [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-
-*   [aeilot/ProblemSet](https://github.com/aeilot/ProblemSet) - My OI Problems
-
-*   [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
-
-*   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
-
-*   [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database
-
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-
-*   [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## MDX
 
