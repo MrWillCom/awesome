@@ -158,7 +158,7 @@
 
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
 
-*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
+*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Turn your traffic into valuable insights". UAParser.js: The Essential Web Development Tool for User-Agent Detection.
 
 *   [imfile-io/imfile-desktop](https://github.com/imfile-io/imfile-desktop) - A full-featured download manager.
 
@@ -2022,7 +2022,7 @@
 
 *   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
 *   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
 
