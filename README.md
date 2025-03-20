@@ -578,7 +578,7 @@
 
 *   [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
 
-*   [27Saumya/Macboard](https://github.com/27Saumya/Macboard) - A minimalistic clipboard manager for macOS
+*   [saumsy/Macboard](https://github.com/saumsy/Macboard) - A minimalistic clipboard manager for macOS
 
 *   [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
 
