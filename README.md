@@ -1688,6 +1688,8 @@
 
 *   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 
+*   [vercel/geist-font](https://github.com/vercel/geist-font) -
+
 *   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 
 *   [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
@@ -1821,8 +1823,6 @@
 *   [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 
 *   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [vercel/geist-font](https://github.com/vercel/geist-font) -
 
 *   [meichthys/foss\_photo\_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 
