@@ -1834,7 +1834,7 @@
 
 *   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 
 *   [CLCK0622/TensorFlow-MobileNet-Starter-Program](https://github.com/CLCK0622/TensorFlow-MobileNet-Starter-Program) - A starter AI program (online demo) using TensorFlow MobileNet, which features image processing.
 
@@ -2254,7 +2254,7 @@
 
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
-*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  5,400,000+ Unsplash images made available for research and machine learning
+*   [unsplash/datasets](https://github.com/unsplash/datasets) - 🎁  6,500,000+ Unsplash images made available for research and machine learning
 
 *   [tensorflow/docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 
