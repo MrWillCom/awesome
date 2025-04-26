@@ -60,6 +60,8 @@
 
 ## Kotlin
 
+*   [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
+
 *   [SamAmco/track-and-graph](https://github.com/SamAmco/track-and-graph) - An android app for tracking personal data and creating custom graphs
 
 *   [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) - Android Easter Egg Collections
@@ -954,7 +956,7 @@
 
 *   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 
@@ -1879,8 +1881,6 @@
 *   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 *   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 
 ## HTML
 
