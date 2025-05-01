@@ -763,7 +763,7 @@
 
 ## JavaScript
 
-*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors
+*   [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 
 *   [bill-xia/hexo-theme-mashiro](https://github.com/bill-xia/hexo-theme-mashiro) - CTeX-like Hexo theme.
 
@@ -2265,7 +2265,7 @@
 
 ## Elixir
 
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## VBScript
 
