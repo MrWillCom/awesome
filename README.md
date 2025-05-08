@@ -164,7 +164,7 @@
 
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
-*   [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+*   [mdn/mdn](https://github.com/mdn/mdn) - Planning and proposals for MDN Web Docs content
 
 *   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
 
@@ -182,7 +182,7 @@
 
 ## Vue
 
-*   [fedidb/fedidb-nuxt](https://github.com/fedidb/fedidb-nuxt) - the next generation frontend for FediDB.org
+*   [fedidb/fedidb-nuxt](https://github.com/fedidb/fedidb-nuxt) - the next generation frontend for FediDB.com
 
 *   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 
