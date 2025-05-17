@@ -202,7 +202,7 @@
 
 *   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 
-*   [ibelick/zola](https://github.com/ibelick/zola) - The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.
+*   [ibelick/zola](https://github.com/ibelick/zola) - The open-source AI chat app for developers. Multi-model, agent-ready.
 
 *   [smashing-team/smashing.tools](https://github.com/smashing-team/smashing.tools) - A curated collection of the best starter kits, UI components, design kits, AI & Dev tools.
 
