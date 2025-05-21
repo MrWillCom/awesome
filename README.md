@@ -1874,6 +1874,8 @@
 
 *   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 
+*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
+
 ## TeX
 
 *   [Code1ce/2024-shzk-Math](https://github.com/Code1ce/2024-shzk-Math) - 2024年上海市上海市初中学业水平考试 数学试卷
@@ -1990,7 +1992,7 @@
 
 *   [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 *   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 
@@ -2361,8 +2363,6 @@
 *   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
 
 *   [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
-
-*   [microsoft/devhome](https://github.com/microsoft/devhome) - The new Dev Home experience for Windows!
 
 *   [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 
