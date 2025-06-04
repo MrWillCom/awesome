@@ -20,12 +20,12 @@
 *   [C++](#c)
 *   [Shell](#shell)
 *   [TeX](#tex)
-*   [Astro](#astro)
 *   [C](#c-1)
 *   [Ruby](#ruby)
 *   [Java](#java)
 *   [Pug](#pug)
 *   [MDX](#mdx)
+*   [Astro](#astro)
 *   [Svelte](#svelte)
 *   [Zig](#zig)
 *   [Dart](#dart)
@@ -61,6 +61,8 @@
 
 ## TypeScript
 
+*   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
+
 *   [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 
 *   [egoist/anime-sedai](https://github.com/egoist/anime-sedai) -
@@ -92,6 +94,8 @@
 *   [smashing-team/smashing.tools](https://github.com/smashing-team/smashing.tools) - A curated collection of the best starter kits, UI components, design kits, AI & Dev tools.
 
 *   [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+
+*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
 
 *   [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 
@@ -279,7 +283,7 @@
 
 *   [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 
-*   [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+*   [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
@@ -986,8 +990,6 @@
 *   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 *   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## JavaScript
 
@@ -1753,7 +1755,7 @@
 
 *   [BigBerny/magicquit](https://github.com/BigBerny/magicquit) -
 
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking & alt-tab for macOS
 
 *   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 
@@ -2069,12 +2071,6 @@
 
 *   [zhcosin/elementary-math](https://github.com/zhcosin/elementary-math) - 初等数学笔记，LaTeX 排版，内容涉及代数、数论、几何、组合等。
 
-## Astro
-
-*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
-
-*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
-
 ## C
 
 *   [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -2228,6 +2224,10 @@
 *   [CLCK0622/Shanghai-High-School-Knowledge](https://github.com/CLCK0622/Shanghai-High-School-Knowledge) - Knowledge in Shanghai standard senior high school.
 
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+
+## Astro
+
+*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
 
 ## Svelte
 
