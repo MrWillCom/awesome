@@ -169,7 +169,7 @@
 
 *   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 
-*   [ibelick/zola](https://github.com/ibelick/zola) - The open-source interface for AI chat. Self-hostable, developer-first, and model-agnostic.
+*   [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 
 *   [smashing-team/smashing.tools](https://github.com/smashing-team/smashing.tools) - A curated collection of the best starter kits, UI components, design kits, AI & Dev tools.
 
