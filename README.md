@@ -301,7 +301,7 @@
 
 *   [fedify-dev/fedify](https://github.com/fedify-dev/fedify) - ActivityPub server framework in TypeScript
 
-*   [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser) - Time Tracker for Browser/网费很贵, to be the best time tracker for browser
+*   [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser) - Time Tracker for Browser/网费很贵
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
