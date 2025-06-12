@@ -139,7 +139,7 @@
 
 ## TypeScript
 
-*   [Iris-Photo-Gallery/Iris](https://github.com/Iris-Photo-Gallery/Iris) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
+*   [Afilmory/Iris](https://github.com/Afilmory/Iris) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
 
 *   [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 
@@ -1535,7 +1535,7 @@
 
 *   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
