@@ -379,7 +379,7 @@
 
 *   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 
-*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 内置文档系统的简约商务风Hexo主题，支持大量的标签组件和动态数据组件。
+*   [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
 
 *   [revin/markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) - A markdown-it plugin to create GitHub-style task lists
 
@@ -1877,7 +1877,7 @@
 
 *   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
 
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 
 *   [runvnc/dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
 
