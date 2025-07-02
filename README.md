@@ -20,12 +20,12 @@
 *   [SCSS](#scss)
 *   [Shell](#shell)
 *   [TeX](#tex)
-*   [Astro](#astro)
 *   [C](#c-1)
 *   [Ruby](#ruby)
 *   [Java](#java)
 *   [Pug](#pug)
 *   [MDX](#mdx)
+*   [Astro](#astro)
 *   [Svelte](#svelte)
 *   [Zig](#zig)
 *   [Dart](#dart)
@@ -817,6 +817,8 @@
 
 *   [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 
+*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
+
 *   [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 
 *   [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
@@ -1451,7 +1453,7 @@
 
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
-*   [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+*   [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 
 *   [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 
@@ -2073,12 +2075,6 @@
 
 *   [zhcosin/elementary-math](https://github.com/zhcosin/elementary-math) - 初等数学笔记，LaTeX 排版，内容涉及代数、数论、几何、组合等。
 
-## Astro
-
-*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
-
-*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
-
 ## C
 
 *   [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -2232,6 +2228,10 @@
 *   [CLCK0622/Shanghai-High-School-Knowledge](https://github.com/CLCK0622/Shanghai-High-School-Knowledge) - Knowledge in Shanghai standard senior high school.
 
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+
+## Astro
+
+*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
 
 ## Svelte
 
