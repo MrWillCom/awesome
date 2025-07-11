@@ -45,7 +45,6 @@
 *   [EJS](#ejs)
 *   [Less](#less)
 *   [Assembly](#assembly)
-*   [Batchfile](#batchfile)
 *   [PowerShell](#powershell)
 *   [Dockerfile](#dockerfile)
 *   [Handlebars](#handlebars)
@@ -1896,6 +1895,8 @@
 
 *   [CLCK0622/OnlineTextbooks](https://github.com/CLCK0622/OnlineTextbooks) - Chinese Textbooks for HSEFZ
 
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
 *   [googlefonts/spacemono](https://github.com/googlefonts/spacemono) - Original monospace display typeface family
 
 *   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -2156,7 +2157,7 @@
 
 ## Ruby
 
-*   [antiwork/gumroad](https://github.com/antiwork/gumroad) -
+*   [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 
 *   [Retrospring/retrospring](https://github.com/Retrospring/retrospring) - Q/A based social network
 
@@ -2491,10 +2492,6 @@
 *   [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 
 *   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-
-## Batchfile
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## PowerShell
 
