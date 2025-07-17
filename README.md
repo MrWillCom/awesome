@@ -796,6 +796,8 @@
 
 *   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
+*   [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
+
 ## JavaScript
 
 *   [devongovett/exif-reader](https://github.com/devongovett/exif-reader) - A small EXIF image metadata reader
@@ -1910,7 +1912,7 @@
 
 ## miscellaneous
 
-*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+*   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 
 *   [crystalidea/macs-fan-control](https://github.com/crystalidea/macs-fan-control) - Control fans on Apple computers
 
@@ -2183,8 +2185,6 @@
 ## Java
 
 *   [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, Claude, and DeepSeek  ☁️ChatGPT、Gemini、Claude 和 DeepSeek 的原生安卓应用程序
-
-*   [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 
 *   [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 
