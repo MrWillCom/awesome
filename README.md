@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [HTML](#html)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [CSS](#css)
@@ -19,12 +19,12 @@
 *   [Roff](#roff)
 *   [miscellaneous](#miscellaneous)
 *   [SCSS](#scss)
-*   [Shell](#shell)
 *   [TeX](#tex)
 *   [Astro](#astro)
 *   [C](#c-1)
 *   [Ruby](#ruby)
 *   [Java](#java)
+*   [Shell](#shell)
 *   [Pug](#pug)
 *   [MDX](#mdx)
 *   [Svelte](#svelte)
@@ -58,191 +58,9 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 
-## Python
-
-*   [JimmyHuang037/mfsapi](https://github.com/JimmyHuang037/mfsapi) - 学生成绩查询系统
-
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-
-*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
-
-*   [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - LiveBench: A Challenging, Contamination-Free LLM Benchmark
-
-*   [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
-
-*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-
-*   [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff
-
-*   [TeacherLi07/essayhelper](https://github.com/TeacherLi07/essayhelper) - 基于嵌入模型的议论文素材检索系统
-
-*   [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD
-
-*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
-
-*   [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
-
-*   [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
-
-*   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-
-*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
-
-*   [RimoChan/i7h](https://github.com/RimoChan/i7h) - 【i18nglish】自动i18n！
-
-*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
-
-*   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
-
-*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-
-*   [vercel/geist-font](https://github.com/vercel/geist-font) -
-
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-
-*   [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
-
-*   [JadyXuan/NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
-
-*   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-
-*   [EvanLuo42/elements-dictionary](https://github.com/EvanLuo42/elements-dictionary) - A Dictionary of Elements Information - For Apple Dictionary
-
-*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
-
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-
-*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
-
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
-
-*   [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
-
-*   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
-
-*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
-
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [Bowserinator/Periodic-Table-JSON](https://github.com/Bowserinator/Periodic-Table-JSON) - A json of the entire periodic table.
-
-*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
-
-*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-
-*   [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
-
-*   [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont) - webfont package for the LXGW WenKai typeface
-
-*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
-
-*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-
-*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
-
-*   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-
-*   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-
-*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
-
-*   [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-
-*   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-
-*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
-
-*   [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
-
-*   [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
-
-## HTML
-
-*   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
-
-*   [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
-
-*   [rudrodip/theme-toggle-effect](https://github.com/rudrodip/theme-toggle-effect) - theme toggle effect using view transitions api
-
-*   [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
-
-*   [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
-
-*   [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
-
-*   [hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn](https://github.com/hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn) - 本插件隐藏QQNT侧栏部位，并在顶部添加快速显示/隐藏按钮，带来纯纯的聊天模式
-
-*   [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
-
-*   [meichthys/foss\_photo\_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
-
-*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
-
-*   [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) -
-
-*   [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
-
-*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-
-*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-
-*   [CLCK0622/TensorFlow-MobileNet-Starter-Program](https://github.com/CLCK0622/TensorFlow-MobileNet-Starter-Program) - A starter AI program (online demo) using TensorFlow MobileNet, which features image processing.
-
-*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
-
-*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
-
-*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
-
-*   [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
-
-*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-
-*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-
-*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
-
-*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-
-*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
-
-*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
-*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
-
 ## TypeScript
+
+*   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
 *   [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 
@@ -920,6 +738,192 @@
 
 *   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
+## Python
+
+*   [JimmyHuang037/mfsapi](https://github.com/JimmyHuang037/mfsapi) - 学生成绩查询系统
+
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+
+*   [LiveBench/LiveBench](https://github.com/LiveBench/LiveBench) - LiveBench: A Challenging, Contamination-Free LLM Benchmark
+
+*   [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
+
+*   [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+*   [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff
+
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [TeacherLi07/essayhelper](https://github.com/TeacherLi07/essayhelper) - 基于嵌入模型的议论文素材检索系统
+
+*   [nolenroyalty/global-capslock](https://github.com/nolenroyalty/global-capslock) - A CaPsLOCK KeY shaReD by thE WOrLD
+
+*   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
+
+*   [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+
+*   [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
+
+*   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+
+*   [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+
+*   [RimoChan/i7h](https://github.com/RimoChan/i7h) - 【i18nglish】自动i18n！
+
+*   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
+
+*   [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
+
+*   [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+
+*   [vercel/geist-font](https://github.com/vercel/geist-font) -
+
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+
+*   [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
+
+*   [JadyXuan/NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
+
+*   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+*   [EvanLuo42/elements-dictionary](https://github.com/EvanLuo42/elements-dictionary) - A Dictionary of Elements Information - For Apple Dictionary
+
+*   [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
+
+*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+
+*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
+
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+
+*   [distrochooser/distrochooser](https://github.com/distrochooser/distrochooser) - An orientation guide for Linux newbies
+
+*   [RimoChan/thyrune](https://github.com/RimoChan/thyrune) - 你的纪念碑！
+
+*   [father-bot/chatgpt\_telegram\_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [Bowserinator/Periodic-Table-JSON](https://github.com/Bowserinator/Periodic-Table-JSON) - A json of the entire periodic table.
+
+*   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+
+*   [uselotus/lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure
+
+*   [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
+*   [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont) - webfont package for the LXGW WenKai typeface
+
+*   [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
+
+*   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+
+*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
+
+*   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+
+*   [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+
+*   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+
+*   [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
+
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+*   [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+
+*   [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+
+*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+
+*   [boramalper/himawaripy](https://github.com/boramalper/himawaripy) - Set near-realtime picture of Earth as your desktop background
+
+*   [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+
+## HTML
+
+*   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
+
+*   [BenjaminAster/CSS-Minecraft](https://github.com/BenjaminAster/CSS-Minecraft) - A Minecraft clone made with pure HTML & CSS – no JavaScript.
+
+*   [rudrodip/theme-toggle-effect](https://github.com/rudrodip/theme-toggle-effect) - theme toggle effect using view transitions api
+
+*   [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
+
+*   [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
+
+*   [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
+
+*   [hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn](https://github.com/hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn) - 本插件隐藏QQNT侧栏部位，并在顶部添加快速显示/隐藏按钮，带来纯纯的聊天模式
+
+*   [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
+
+*   [meichthys/foss\_photo\_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
+
+*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
+
+*   [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) -
+
+*   [silentEAG/note](https://github.com/silentEAG/note) - 个人 notebook
+
+*   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
+
+*   [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
+
+*   [CLCK0622/TensorFlow-MobileNet-Starter-Program](https://github.com/CLCK0622/TensorFlow-MobileNet-Starter-Program) - A starter AI program (online demo) using TensorFlow MobileNet, which features image processing.
+
+*   [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [KrauseFx/InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what in-app browsers do under the hood
+
+*   [luandersonn/Modern-scrollbar](https://github.com/luandersonn/Modern-scrollbar) - A modern look for Chromium scrollbar
+
+*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+
+*   [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
+
+*   [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+
+*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
+
+*   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
+
+*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+
+*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
+
 ## JavaScript
 
 *   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
@@ -1347,8 +1351,6 @@
 *   [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark\_tabs: A better OneTab for Chrome  :memo:
 
 *   [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
-
-*   [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 
 ## Go
 
@@ -2056,44 +2058,6 @@
 
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 
-## Shell
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
-
-*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk) - Space Grotesk: a proportional variant of the original fixed-width Space Mono family
-
-*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
-
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
-
-*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-
-*   [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
-
-*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-
-*   [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
-
-*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-
 ## TeX
 
 *   [Code1ce/2024-shzk-Math](https://github.com/Code1ce/2024-shzk-Math) - 2024年上海市上海市初中学业水平考试 数学试卷
@@ -2235,6 +2199,42 @@
 *   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 
 *   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
+
+## Shell
+
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
+
+*   [ful1e5/apple\_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk) - Space Grotesk: a proportional variant of the original fixed-width Space Mono family
+
+*   [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
+
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+
+*   [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+*   [meiji163/gh-notify](https://github.com/meiji163/gh-notify) - GitHub CLI extension to display GitHub notifications
+
+*   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+
+*   [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
+
+*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
 
 ## Pug
 
