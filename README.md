@@ -1028,7 +1028,7 @@
 
 *   [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 
-*   [shuding/liquid-glass](https://github.com/shuding/liquid-glass) -
+*   [shuding/liquid-glass](https://github.com/shuding/liquid-glass) - Copy-paste Liquid Glass shader with SVG
 
 *   [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 
