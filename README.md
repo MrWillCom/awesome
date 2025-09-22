@@ -1592,7 +1592,7 @@
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - A semi-active fork of kabouzeid/Phonograph -- a revived classic material designed music player for Android
+*   [chr56/Phonograph\_Plus](https://github.com/chr56/Phonograph_Plus) - Yet another fork of kabouzeid/Phonograph -- a  revived classic material designed music player for Android
 
 *   [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 
@@ -1948,7 +1948,7 @@
 
 *   [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 
-*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 
 *   [privatenumber/pkg-size.dev](https://github.com/privatenumber/pkg-size.dev) - 📦🔍 Find the true size of an npm package
 
