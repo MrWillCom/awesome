@@ -126,7 +126,7 @@
 
 *   [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 
-*   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+*   [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 
 *   [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 
@@ -204,7 +204,7 @@
 
 *   [needim/ned.im](https://github.com/needim/ned.im) - My personal website
 
-*   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+*   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 | Ambient sounds for focus and calm.
 
 *   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
@@ -312,7 +312,7 @@
 
 *   [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav) - 🗺 A pure front-end development navigation station.
 
-*   [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
+*   [nodejs/corepack](https://github.com/nodejs/corepack) - Package manager version manager for Node.js projects
 
 *   [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 
@@ -1102,8 +1102,6 @@
 
 *   [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 
-*   [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.
-
 *   [open-spaced-repetition/anki-manual-zh-CN](https://github.com/open-spaced-repetition/anki-manual-zh-CN) - Anki 用户手册（中文翻译）
 
 *   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -1167,6 +1165,8 @@
 ## SCSS
 
 *   [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - Baseline sets a new standard for your Obsidian vault experience.
+
+*   [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino) - A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.
 
 *   [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 
