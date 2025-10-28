@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Solidity](#solidity)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Objective-C](#objective-c)
@@ -61,6 +62,10 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
+
+## Solidity
+
+*   [lens-protocol/core](https://github.com/lens-protocol/core) - The Lens Protocol
 
 ## TypeScript
 
@@ -1254,8 +1259,6 @@
 
 *   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 
-*   [inns/mak-mini](https://github.com/inns/mak-mini) - A (small) piece of paper.
-
 ## Objective-C
 
 *   [objective-see/KnockKnock](https://github.com/objective-see/KnockKnock) - Like AutoRuns ...but for macOS!
@@ -1960,7 +1963,7 @@
 
 *   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 *   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
