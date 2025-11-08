@@ -66,7 +66,7 @@
 
 *   [leochiu-a/slidev-workspace](https://github.com/leochiu-a/slidev-workspace) -
 
-*   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
+*   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
 *   [daledesilva/obsidian\_ink](https://github.com/daledesilva/obsidian_ink) -
 
@@ -214,7 +214,7 @@
 
 *   [needim/ned.im](https://github.com/needim/ned.im) - My personal website
 
-*   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 | Ambient sounds for focus and calm.
+*   [remvze/moodist](https://github.com/remvze/moodist) - 🌲 • Ambient sounds for focus and calm.
 
 *   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 
