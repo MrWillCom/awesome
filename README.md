@@ -64,6 +64,8 @@
 
 ## Go
 
+*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+
 *   [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 
 *   [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -680,7 +682,7 @@
 
 *   [Railly/one-hunter-vscode](https://github.com/Railly/one-hunter-vscode) - A stylish theme inspired by Vercel Theme ▲ and One Dark Pro 🎨. Powered by Tinte
 
-*   [heyverse/hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
+*   [bigint/hey](https://github.com/bigint/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
@@ -941,6 +943,8 @@
 *   [tommasoberlose/another-widget](https://github.com/tommasoberlose/another-widget) - Watch events, weather and much more at a glance.
 
 *   [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+
+*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 
 ## Swift
 
@@ -2122,8 +2126,6 @@
 
 *   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-
 ## Objective-C++
 
 *   [Meridius-Labs/electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass) - ⚛️  Electron bindings for Apple Liquid Glass
@@ -2405,8 +2407,6 @@
 *   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 *   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 
 *   [Dimezis/BlurView](https://github.com/Dimezis/BlurView) - Dynamic iOS-like blur of underlying Views for Android
 
