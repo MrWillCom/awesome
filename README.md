@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
@@ -24,7 +25,6 @@
 *   [Vue](#vue)
 *   [Roff](#roff)
 *   [TeX](#tex)
-*   [Astro](#astro)
 *   [C](#c-1)
 *   [Ruby](#ruby)
 *   [Java](#java)
@@ -61,6 +61,14 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+
+## Astro
+
+*   [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) -
+
+*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
+
+*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
 
 ## TypeScript
 
@@ -542,7 +550,7 @@
 
 *   [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 
 *   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 
@@ -1310,7 +1318,7 @@
 
 *   [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 
-*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
+*   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 
 *   [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
 
@@ -1430,7 +1438,7 @@
 
 *   [wfjsw/VP-StableDiffusionBook](https://github.com/wfjsw/VP-StableDiffusionBook) - AI 作图知识库
 
-*   [vasanthv/ahey](https://github.com/vasanthv/ahey) - Free group video call for the web. No signups. No downloads.
+*   [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
 
 *   [merdok/homebridge-miot](https://github.com/merdok/homebridge-miot) - Homebridge plugin for devices supporting the Xiaomi miot protocol
 
@@ -2280,12 +2288,6 @@
 
 *   [zhcosin/elementary-math](https://github.com/zhcosin/elementary-math) - 初等数学笔记，LaTeX 排版，内容涉及代数、数论、几何、组合等。
 
-## Astro
-
-*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
-
-*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
-
 ## C
 
 *   [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -2593,8 +2595,6 @@
 *   [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
 
 *   [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
-
-*   [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - 实用的开源多功能原神工具箱 🧰 / Multifunctional Open-source Genshin Impact Toolkit 🧰
 
 *   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 
