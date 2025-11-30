@@ -64,6 +64,8 @@
 
 ## TypeScript
 
+*   [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit) - A type-safe, elegant iMessage SDK for macOS with zero dependencies
+
 *   [resend/sonare](https://github.com/resend/sonare) - Pronounceable and organic words that feel natural.
 
 *   [honojs/middleware](https://github.com/honojs/middleware) - monorepo for Hono third-party middleware/helpers/wrappers
@@ -2409,8 +2411,6 @@
 *   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## Ruby
 
