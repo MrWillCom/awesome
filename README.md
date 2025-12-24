@@ -668,7 +668,7 @@
 
 ## TypeScript
 
-*   [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 📚 All-in-one domain name intelligence tool
+*   [jakejarvis/domainstack.io](https://github.com/jakejarvis/domainstack.io) - 🧰 All-in-one domain name intelligence
 
 *   [CLCK0622/Next.js-Stardust](https://github.com/CLCK0622/Next.js-Stardust) - An elegant, high-performance personal page and blog theme built with Next.js App Router and Sass.
 
