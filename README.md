@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Swift](#swift)
@@ -14,7 +15,6 @@
 *   [Shell](#shell)
 *   [Svelte](#svelte)
 *   [Vue](#vue)
-*   [Astro](#astro)
 *   [Go](#go)
 *   [CSS](#css)
 *   [C++](#c)
@@ -61,6 +61,16 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+
+## Astro
+
+*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+*   [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) -
+
+*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
+
+*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
 
 ## JavaScript
 
@@ -513,8 +523,6 @@
 *   [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 
 *   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 
 ## Kotlin
 
@@ -1927,14 +1935,6 @@
 *   [qier222/oh-weather](https://github.com/qier222/oh-weather) - A simple weather web app
 
 *   [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
-
-## Astro
-
-*   [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) -
-
-*   [radishzzz/astro-theme-retypeset](https://github.com/radishzzz/astro-theme-retypeset) - Revive the beauty of typography.
-
-*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
 
 ## Go
 
