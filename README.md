@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Markdown](#markdown)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
 *   [Blade](#blade)
@@ -39,7 +40,6 @@
 *   [Lua](#lua)
 *   [Vim Script](#vim-script)
 *   [Scheme](#scheme)
-*   [Markdown](#markdown)
 *   [PostScript](#postscript)
 *   [C#](#c-2)
 *   [Nim](#nim)
@@ -63,7 +63,23 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 
+## Markdown
+
+*   [antfu/antfu.me](https://github.com/antfu/antfu.me) - My personal website
+
+*   [nolebase/nolebase](https://github.com/nolebase/nolebase) - A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方
+
+*   [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？
+
+*   [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+
+*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
+
 ## TypeScript
+
+*   [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
+
+*   [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
 
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -1507,8 +1523,6 @@
 
 *   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 
-*   [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black\_heart: Create and share beautiful images of your source code
-
 ## Go
 
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
@@ -1519,7 +1533,7 @@
 
 *   [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 
-*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 
 *   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
 
@@ -1803,7 +1817,7 @@
 
 ## HTML
 
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
 
 *   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
 
@@ -2571,16 +2585,6 @@
 
 *   [dangh/zed-ejs](https://github.com/dangh/zed-ejs) - EJS template syntax for Zed
 
-## Markdown
-
-*   [nolebase/nolebase](https://github.com/nolebase/nolebase) - A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方
-
-*   [saveweb/review-2022](https://github.com/saveweb/review-2022) - 饿您饿饿年，你吃年终总结了馍？
-
-*   [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-
-*   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
-
 ## PostScript
 
 *   [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone", 线性代数的艺术中文版, 欢迎PR.
@@ -2660,10 +2664,6 @@
 *   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 *   [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-
-*   [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
 ## Nim
 
