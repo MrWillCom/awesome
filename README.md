@@ -27,6 +27,7 @@
 *   [Perl](#perl)
 *   [Objective-C++](#objective-c-1)
 *   [Stylus](#stylus)
+*   [Fluent](#fluent)
 *   [Roff](#roff)
 *   [TeX](#tex)
 *   [C](#c-1)
@@ -1143,8 +1144,6 @@
 
 *   [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 *   [shuding/liquid-glass](https://github.com/shuding/liquid-glass) - Copy-paste Liquid Glass shader with SVG
 
 *   [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
@@ -1349,7 +1348,7 @@
 
 *   [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 
 *   [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
 
@@ -1819,7 +1818,7 @@
 
 ## HTML
 
-*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial)
+*   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 
 *   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
 
@@ -2370,6 +2369,10 @@
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
 
 *   [aeilot/hexo-theme-paperwhite](https://github.com/aeilot/hexo-theme-paperwhite) - A minimalist theme
+
+## Fluent
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 
 ## Roff
 
