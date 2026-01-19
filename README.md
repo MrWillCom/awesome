@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rich Text Format](#rich-text-format)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [Astro](#astro)
@@ -62,6 +63,10 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+
+## Rich Text Format
+
+*   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
 
 ## TypeScript
 
@@ -153,7 +158,7 @@
 
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
-*   [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A simple note-taking app for capturing and organizing your thoughts
+*   [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - Distraction-free notes, made to last
 
 *   [shuding/nstr](https://github.com/shuding/nstr) - number → string, but looks good
 
@@ -1047,8 +1052,6 @@
 
 *   [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 
-*   [MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) - LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致
-
 *   [MapleRecall/Transitio-user-css](https://github.com/MapleRecall/Transitio-user-css) - Custom css for QQNT
 
 *   [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
@@ -1174,6 +1177,8 @@
 *   [anatolyzenkov/button-stealer](https://github.com/anatolyzenkov/button-stealer) - A Chrome extension that “steals” a button from every website you open.
 
 *   [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+
+*   [MUKAPP/mspring-theme](https://github.com/MUKAPP/mspring-theme) - LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致
 
 *   [PRO-2684/transitio](https://github.com/PRO-2684/transitio) - Load custom UserStyles for QQNT
 
@@ -1876,8 +1881,6 @@
 *   [louis-studio/louis-studio.github.io](https://github.com/louis-studio/louis-studio.github.io) -
 
 *   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-
-*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
 
 ## miscellaneous
 
