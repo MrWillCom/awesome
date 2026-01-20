@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Rich Text Format](#rich-text-format)
 *   [TypeScript](#typescript)
+*   [Rich Text Format](#rich-text-format)
 *   [Swift](#swift)
 *   [Astro](#astro)
 *   [Markdown](#markdown)
@@ -64,11 +64,9 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 
-## Rich Text Format
-
-*   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
-
 ## TypeScript
+
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 *   [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 
@@ -848,6 +846,10 @@
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
+## Rich Text Format
+
+*   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
+
 ## Swift
 
 *   [Aeastr/auto-folder-icon](https://github.com/Aeastr/auto-folder-icon) - A macOS CLI tool to set folder icons from embedded project assets
@@ -1178,7 +1180,7 @@
 
 *   [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
-*   [MUKAPP/mspring-theme](https://github.com/MUKAPP/mspring-theme) - LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致
+*   [MUKAPP/mspring-theme](https://github.com/MUKAPP/mspring-theme) - LiteLoaderQQNT/QwQNT 主题，优雅 · 粉粉 · 细致
 
 *   [PRO-2684/transitio](https://github.com/PRO-2684/transitio) - Load custom UserStyles for QQNT
 
@@ -1401,8 +1403,6 @@
 *   [EasyHexo/Easy-Hexo](https://github.com/EasyHexo/Easy-Hexo) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
 
 *   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-
-*   [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 
 *   [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 
@@ -1968,6 +1968,8 @@
 
 *   [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学
 
+*   [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
+
 *   [aeilot/HowToUseSearchEngines](https://github.com/aeilot/HowToUseSearchEngines) - A simple tutorial to Search Engines.
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
@@ -2443,8 +2445,6 @@
 *   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 
 *   [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## Ruby
 
