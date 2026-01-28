@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Elixir](#elixir)
 *   [TypeScript](#typescript)
+*   [Elixir](#elixir)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [CSS](#css)
@@ -63,13 +63,9 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 
-## Elixir
-
-*   [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
-
-*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-
 ## TypeScript
+
+*   [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 
 *   [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 
@@ -377,7 +373,7 @@
 
 *   [sheepzh/time-tracker-4-browser](https://github.com/sheepzh/time-tracker-4-browser) - Time Tracker for Browser. Help you track time, analyze your habits and block addictive sites
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding\_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 *   [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 
@@ -861,7 +857,11 @@
 
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
-*   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+## Elixir
+
+*   [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
+
+*   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 
 ## JavaScript
 
