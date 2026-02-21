@@ -206,6 +206,8 @@
 
 *   [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 
+*   [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
+
 *   [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 
 *   [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
@@ -788,7 +790,7 @@
 
 *   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
-*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+*   [vercel/openchat](https://github.com/vercel/openchat) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 *   [mlc-ai/web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
 
@@ -2498,7 +2500,7 @@
 
 *   [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -
 
-*   [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions.
+*   [stoatchat/discussions](https://github.com/stoatchat/discussions) - Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions
 
 *   [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 
@@ -2751,8 +2753,6 @@
 *   [hexojs/site](https://github.com/hexojs/site) - The website for Hexo. https://hexo.io/
 
 *   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
-
-*   [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
 
 *   [prinsss/hexo-theme-murasaki](https://github.com/prinsss/hexo-theme-murasaki) - Yet another minimalist theme for Hexo. (EARLY DEV STAGE)
 
