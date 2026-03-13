@@ -1246,7 +1246,7 @@
 
 *   [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 
-*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+*   [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 
 *   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
@@ -2372,7 +2372,7 @@
 
 *   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 
 *   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 
