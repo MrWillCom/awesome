@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [EJS](#ejs)
 *   [HTML](#html)
 *   [Swift](#swift)
 *   [Rust](#rust)
@@ -52,7 +53,6 @@
 *   [Assembly](#assembly)
 *   [PowerShell](#powershell)
 *   [Batchfile](#batchfile)
-*   [EJS](#ejs)
 *   [Dockerfile](#dockerfile)
 *   [Handlebars](#handlebars)
 *   [AutoIt](#autoit)
@@ -65,6 +65,8 @@
 *   [CMake](#cmake)
 
 ## TypeScript
+
+*   [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) - Reverse-engineered TypeScript client for QClaw's WeChat Access API.
 
 *   [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
 
@@ -868,7 +870,7 @@
 
 *   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 
-*   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+*   [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
@@ -949,6 +951,12 @@
 *   [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+## EJS
+
+*   [aeilot/hexo-theme-mingyue](https://github.com/aeilot/hexo-theme-mingyue) - A Hexo blog theme with a classical Chinese design
+
+*   [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## HTML
 
@@ -1425,8 +1433,6 @@
 *   [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## Kotlin
 
@@ -2115,8 +2121,6 @@
 *   [gautamkrishnar/motrix-webextension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager
 
 *   [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-
-*   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## miscellaneous
 
@@ -2931,10 +2935,6 @@
 ## Batchfile
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-## EJS
-
-*   [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## Dockerfile
 
