@@ -1440,7 +1440,7 @@
 
 *   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 
-*   [fantasytyx/bv](https://github.com/fantasytyx/bv) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili.
+*   [fantasytyx/bv](https://github.com/fantasytyx/bv) - 哔哩哔哩 的第三方 Android 应用的自用修改版。A modified version of Bilibili’s third-party Android app.
 
 *   [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
