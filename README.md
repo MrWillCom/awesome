@@ -149,7 +149,7 @@
 
 *   [codepen/slideVars](https://github.com/codepen/slideVars) - UI for Updating CSS Custom Properties
 
-*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Runtime skeleton generator that mirrors your actual UI structure. Zero layout duplication. Built for modern frameworks.
+*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 
 *   [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 
@@ -1329,7 +1329,7 @@
 
 ## C
 
-*   [datlechin/TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
+*   [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A fast, native macOS database client with built-in AI assistant.
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
