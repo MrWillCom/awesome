@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -26,7 +27,6 @@
 *   [Elixir](#elixir)
 *   [CSS](#css)
 *   [Rich Text Format](#rich-text-format)
-*   [Astro](#astro)
 *   [Markdown](#markdown)
 *   [Blade](#blade)
 *   [SCSS](#scss)
@@ -65,9 +65,21 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
+## Astro
+
+*   [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
+
+*   [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
+
+*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+*   [michael-andreuzza/oxbow](https://github.com/michael-andreuzza/oxbow) - Open Source Tailwind CSS & Alpine JS UI Blocks
+
+*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
+
 ## Go
 
-*   [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
+*   [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 
 *   [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
 
@@ -1110,8 +1122,6 @@
 *   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-*   [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 
 ## Python
 
@@ -2890,16 +2900,6 @@
 ## Rich Text Format
 
 *   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
-
-## Astro
-
-*   [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
-
-*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
-
-*   [michael-andreuzza/oxbow](https://github.com/michael-andreuzza/oxbow) - Open Source Tailwind CSS & Alpine JS UI Blocks
-
-*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
 
 ## Markdown
 
