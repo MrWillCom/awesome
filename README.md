@@ -329,7 +329,7 @@
 
 *   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 
-*   [wuhan005/NekoBox](https://github.com/wuhan005/NekoBox) - 📫 匿名提问箱 / Anonymous question box
+*   [wuhan005/NekoBox](https://github.com/wuhan005/NekoBox) - 📫 基于 Go + Vue 开发的轻量匿名提问箱，极简界面，开箱即用 / Lightweight anonymous question box built with Go & Vue, minimal UI, ready to use out of the box.
 
 *   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
@@ -467,7 +467,7 @@
 
 *   [codepen/slideVars](https://github.com/codepen/slideVars) - UI for Updating CSS Custom Properties
 
-*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Self-updating Shimmer Skeletons for modern web apps.
+*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Self-updating shimmer skeletons for modern web apps, Zero layout duplication.
 
 *   [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 
