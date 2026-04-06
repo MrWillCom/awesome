@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [Astro](#astro)
 *   [Go](#go)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [HTML](#html)
 *   [Rust](#rust)
@@ -65,321 +65,9 @@
 *   [CMake](#cmake)
 *   [Fluent](#fluent)
 
-## Swift
-
-*   [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
-
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-
-*   [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for every database
-
-*   [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
-
-*   [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
-
-*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-
-*   [cosZone/MoePeek](https://github.com/cosZone/MoePeek) - A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB
-
-*   [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
-
-*   [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
-
-*   [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
-
-*   [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
-
-*   [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
-
-*   [Aeastr/auto-folder-icon](https://github.com/Aeastr/auto-folder-icon) - A macOS CLI tool to set folder icons from embedded project assets
-
-*   [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
-
-*   [aeilot/stay-away-from-my-screen](https://github.com/aeilot/stay-away-from-my-screen) - The instant digital "Do Not Touch" sign for your Mac. Stop fingerprints and protect your expensive display with one keystroke.
-
-*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-
-*   [aeilot/OCRit](https://github.com/aeilot/OCRit) - OCR it on macOS with DeepSeek-OCR
-
-*   [CLCK0622/Eventual](https://github.com/CLCK0622/Eventual) - Track what matters. Past, present, and future.
-
-*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
-
-*   [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.
-
-*   [mayoff/RectangleContour](https://github.com/mayoff/RectangleContour) - Find the union of a set of axis-aligned rectangles
-
-*   [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
-
-*   [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
-
-*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-
-*   [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
-
-*   [zorth64/ClearMenuBar](https://github.com/zorth64/ClearMenuBar) - Make the macOS menu bar transparent.
-
-*   [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
-
-*   [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
-
-*   [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
-
-*   [okooo5km/HiPixel](https://github.com/okooo5km/HiPixel) - HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.
-
-*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
-
-*   [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
-
-*   [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
-
-*   [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
-
-*   [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
-
-*   [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
-
-*   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-
-*   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
-
-*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-
-*   [BigBerny/magicquit](https://github.com/BigBerny/magicquit) -
-
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
-
-*   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
-
-*   [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
-
-*   [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
-
-*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-
-*   [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
-
-*   [saumsy/Macboard](https://github.com/saumsy/Macboard) - A minimalistic clipboard manager for macOS
-
-*   [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
-
-*   [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-
-*   [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
-
-*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
-
-*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-
-*   [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-
-*   [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
-
-*   [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
-
-*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
-
-*   [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
-
-*   [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
-
-*   [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
-
-*   [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。
-
-*   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
-
-*   [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
-
-*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-
-*   [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
-
-*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-
-*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
-
-*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-
-*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-
-*   [MrWillCom/happy-birthday-to-aeilot-2022](https://github.com/MrWillCom/happy-birthday-to-aeilot-2022) - Happy Birthday! @aeilot
-
-*   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-*   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
-
-*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
-*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-
-*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-
-*   [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-
-*   [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
-
-*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
-
-*   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
-
-*   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-
-*   [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-
-## Astro
-
-*   [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-
-*   [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
-
-*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
-
-*   [michael-andreuzza/oxbow](https://github.com/michael-andreuzza/oxbow) - Open Source Tailwind CSS & Alpine JS UI Blocks
-
-*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
-
-## Go
-
-*   [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
-
-*   [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
-
-*   [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
-
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-
-*   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-
-*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
-
-*   [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
-
-*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
-
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-
-*   [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
-
-*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-
-*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
-
-*   [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
-*   [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
-
-*   [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
-
-*   [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-
-*   [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-
-*   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。
-
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-*   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
-
-*   [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
-
-*   [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
-
-*   [overflowy/spongebob-cli](https://github.com/overflowy/spongebob-cli) - SpongeBob delivered straight from your terminal
-
-*   [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
-
-*   [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
-
-*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
-
-*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-
-*   [wuhan005/NekoBox](https://github.com/wuhan005/NekoBox) - 📫 基于 Go + Vue 开发的轻量匿名提问箱，极简界面，开箱即用 / Lightweight anonymous question box built with Go & Vue, minimal UI, ready to use out of the box.
-
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-
-*   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-
-*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-
-*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-
-*   [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
-
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-
-*   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-
-*   [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-
-*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
 ## TypeScript
+
+*   [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 
 *   [privatenumber/md-pen](https://github.com/privatenumber/md-pen) - Utilities for formatting Markdown
 
@@ -467,7 +155,7 @@
 
 *   [codepen/slideVars](https://github.com/codepen/slideVars) - UI for Updating CSS Custom Properties
 
-*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Self-updating shimmer skeletons for modern web apps, Zero layout duplication.
+*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
 
 *   [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 
@@ -1309,6 +997,320 @@
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
+## Swift
+
+*   [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
+*   [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for every database
+
+*   [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
+
+*   [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
+
+*   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
+*   [cosZone/MoePeek](https://github.com/cosZone/MoePeek) - A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB
+
+*   [simonbs/Runestone](https://github.com/simonbs/Runestone) - 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more.
+
+*   [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.
+
+*   [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
+
+*   [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
+
+*   [tldev/dorso](https://github.com/tldev/dorso) - A macOS app that blurs your screen when you slouch.
+
+*   [Aeastr/auto-folder-icon](https://github.com/Aeastr/auto-folder-icon) - A macOS CLI tool to set folder icons from embedded project assets
+
+*   [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
+
+*   [aeilot/stay-away-from-my-screen](https://github.com/aeilot/stay-away-from-my-screen) - The instant digital "Do Not Touch" sign for your Mac. Stop fingerprints and protect your expensive display with one keystroke.
+
+*   [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+
+*   [aeilot/OCRit](https://github.com/aeilot/OCRit) - OCR it on macOS with DeepSeek-OCR
+
+*   [CLCK0622/Eventual](https://github.com/CLCK0622/Eventual) - Track what matters. Past, present, and future.
+
+*   [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+
+*   [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.
+
+*   [mayoff/RectangleContour](https://github.com/mayoff/RectangleContour) - Find the union of a set of axis-aligned rectangles
+
+*   [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
+
+*   [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+
+*   [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+
+*   [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
+
+*   [zorth64/ClearMenuBar](https://github.com/zorth64/ClearMenuBar) - Make the macOS menu bar transparent.
+
+*   [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
+
+*   [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
+
+*   [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
+
+*   [okooo5km/HiPixel](https://github.com/okooo5km/HiPixel) - HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.
+
+*   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+*   [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
+
+*   [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
+
+*   [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
+
+*   [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
+
+*   [Lakr233/NotchNotification](https://github.com/Lakr233/NotchNotification) - Display Notification Inside Mac's Notch.
+
+*   [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
+
+*   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+
+*   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
+
+*   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
+
+*   [BigBerny/magicquit](https://github.com/BigBerny/magicquit) -
+
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
+
+*   [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
+
+*   [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
+
+*   [neilsardesai/Mouse-Finder](https://github.com/neilsardesai/Mouse-Finder) - 🖱👀 An NSDockTile experiment
+
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+
+*   [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
+
+*   [saumsy/Macboard](https://github.com/saumsy/Macboard) - A minimalistic clipboard manager for macOS
+
+*   [Lakr233/Firework](https://github.com/Lakr233/Firework) - 烟花箱！
+
+*   [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+
+*   [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
+
+*   [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
+
+*   [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
+
+*   [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
+
+*   [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
+
+*   [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
+
+*   [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
+
+*   [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS and macOS that makes it easy to create fluid, interruptible animations that feel great.
+
+*   [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
+
+*   [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
+
+*   [Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress) - 借一个上班的进度条。
+
+*   [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
+
+*   [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Track real-time Genshin Impact stats in your macOS menubar
+
+*   [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
+
+*   [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
+
+*   [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [underthestars-zhy/IconChanger](https://github.com/underthestars-zhy/IconChanger) - Simply change your app's icon on macOS. Just a click.
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+
+*   [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+
+*   [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+
+*   [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
+
+*   [MrWillCom/happy-birthday-to-aeilot-2022](https://github.com/MrWillCom/happy-birthday-to-aeilot-2022) - Happy Birthday! @aeilot
+
+*   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
+*   [pedrommcarrasco/Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - 🍎 Screensaver inspired by Apple's Event on October 30, 2018
+
+*   [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
+
+*   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+
+*   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+*   [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+
+*   [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
+
+*   [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
+
+*   [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
+
+*   [dasautoooo/Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
+
+*   [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
+
+*   [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+## Astro
+
+*   [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
+
+*   [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
+
+*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+*   [michael-andreuzza/oxbow](https://github.com/michael-andreuzza/oxbow) - Open Source Tailwind CSS & Alpine JS UI Blocks
+
+*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
+
+## Go
+
+*   [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
+
+*   [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
+
+*   [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+
+*   [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+
+*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
+
+*   [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
+
+*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+
+*   [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
+
+*   [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+
+*   [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
+
+*   [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
+
+*   [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
+
+*   [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+
+*   [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+
+*   [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+*   [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) -
+
+*   [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+
+*   [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
+
+*   [overflowy/spongebob-cli](https://github.com/overflowy/spongebob-cli) - SpongeBob delivered straight from your terminal
+
+*   [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
+
+*   [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
+
+*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+
+*   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
+
+*   [wuhan005/NekoBox](https://github.com/wuhan005/NekoBox) - 📫 基于 Go + Vue 开发的轻量匿名提问箱，极简界面，开箱即用 / Lightweight anonymous question box built with Go & Vue, minimal UI, ready to use out of the box.
+
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+
+*   [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+
+*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+
+*   [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
+
+*   [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
+
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+
+*   [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+
+*   [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
 ## Python
 
 *   [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) -  Open-source framework for conversational voice AI agents
@@ -1896,8 +1898,6 @@
 *   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
 
 *   [devefy/Flutter-Story-App-UI](https://github.com/devefy/Flutter-Story-App-UI) -
-
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## JavaScript
 
