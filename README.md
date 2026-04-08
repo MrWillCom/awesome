@@ -1249,7 +1249,7 @@
 
 *   [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 
 *   [overflowy/spongebob-cli](https://github.com/overflowy/spongebob-cli) - SpongeBob delivered straight from your terminal
 
