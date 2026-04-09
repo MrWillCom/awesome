@@ -17,6 +17,7 @@
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
+*   [Svelte](#svelte)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [C](#c-1)
@@ -30,7 +31,6 @@
 *   [Markdown](#markdown)
 *   [Blade](#blade)
 *   [SCSS](#scss)
-*   [Svelte](#svelte)
 *   [Solidity](#solidity)
 *   [Perl](#perl)
 *   [Objective-C++](#objective-c-1)
@@ -66,6 +66,8 @@
 *   [Fluent](#fluent)
 
 ## TypeScript
+
+*   [wong2/diffx](https://github.com/wong2/diffx) - A local code review tool designed for the coding agent workflow
 
 *   [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 
@@ -332,8 +334,6 @@
 *   [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 
 *   [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
-
-*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 
 *   [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 
@@ -1543,7 +1543,7 @@
 
 *   [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 
-*   [kane50613/takumi](https://github.com/kane50613/takumi) - Rust-powered image renderer for JSX. Drop-in replacement for next/og.
+*   [kane50613/takumi](https://github.com/kane50613/takumi) - A Rust rendering engine for turning templates into images, with next/og-compatible APIs.
 
 *   [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML + JS + CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM
 
@@ -1897,13 +1897,9 @@
 
 *   [yechaoa/wanandroid\_flutter](https://github.com/yechaoa/wanandroid_flutter) - :collision::collision::collision:【Flutter版】玩安卓，非常适合学习，代码不多、注释多。
 
-*   [devefy/Flutter-Story-App-UI](https://github.com/devefy/Flutter-Story-App-UI) -
-
 ## JavaScript
 
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
-
-*   [refact0r/re-start](https://github.com/refact0r/re-start) - a tui-style browser startpage
 
 *   [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
 
@@ -2399,6 +2395,24 @@
 
 *   [inns/mak-mini](https://github.com/inns/mak-mini) - A (small) piece of paper.
 
+## Svelte
+
+*   [refact0r/re-start](https://github.com/refact0r/re-start) - a tui-style browser startpage
+
+*   [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs) - A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.
+
+*   [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
+
+*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
+
+*   [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
+
+*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+*   [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
+
+*   [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
+
 ## miscellaneous
 
 *   [astrolicious/agent-skills](https://github.com/astrolicious/agent-skills) -
@@ -2745,6 +2759,8 @@
 
 *   [VentusUta/BewlyBewly-AveMujica](https://github.com/VentusUta/BewlyBewly-AveMujica) - BewlyBewly! Ave Mujica (English | 简体中文 | 繁體中文 | 廣東話)
 
+*   [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+
 *   [fedidb/fedidb-nuxt](https://github.com/fedidb/fedidb-nuxt) - the next generation frontend for FediDB.com
 
 *   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
@@ -2948,22 +2964,6 @@
 *   [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 
 *   [noatpad/typora-theme-ursine](https://github.com/noatpad/typora-theme-ursine) - A Typora theme, inspired by Bear
-
-## Svelte
-
-*   [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs) - A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.
-
-*   [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-
-*   [basharovV/musicat](https://github.com/basharovV/musicat) - A sleek desktop music player and tagger for offline music 🪕. With gapless playback, smart playlists, and a map view! Built with Svelte and Tauri
-
-*   [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
-
-*   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-*   [christmas-countdown/website](https://github.com/christmas-countdown/website) - Christmas countdown website
-
-*   [dufu1991/simple-cloud-music](https://github.com/dufu1991/simple-cloud-music) - 简洁的的第三方网易云音乐播放器
 
 ## Solidity
 
