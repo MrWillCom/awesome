@@ -67,6 +67,8 @@
 
 ## TypeScript
 
+*   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+
 *   [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 
 *   [Innei/FWTI](https://github.com/Innei/FWTI) - 自嘲式恋爱人格测试，测测你在恋爱里是哪种废物。
@@ -161,7 +163,7 @@
 
 *   [codepen/slideVars](https://github.com/codepen/slideVars) - UI for Updating CSS Custom Properties
 
-*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader generator that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
+*   [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 
 *   [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 
@@ -288,6 +290,8 @@
 *   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 
 *   [madebyankur/lisere](https://github.com/madebyankur/lisere) - Liseré is a lightweight and composable React component for text highlighting.
+
+*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 
 *   [voideditor/void](https://github.com/voideditor/void) -
 
@@ -996,8 +1000,6 @@
 *   [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 
 *   [colodenn/personal-website](https://github.com/colodenn/personal-website) - :boy: I guess this is my website. Take a closer look and maybe you will find a hidden egg but better watch out or Chuck Norris will roundhouse kick you!
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ## JavaScript
 
@@ -1766,8 +1768,6 @@
 *   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 
 *   [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
-
-*   [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 
 *   [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
 
@@ -2669,7 +2669,7 @@
 
 *   [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) - An Advanced Launcher for miHoYo/HoYoverse Games
 
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 - UI Automation Testing Tools For Genshin Impact
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
 
 *   [bezzad/Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 
