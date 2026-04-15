@@ -1759,7 +1759,7 @@
 
 ## HTML
 
-*   [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude) -
+*   [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) -
 
 *   [amywork777/CuteGhostty](https://github.com/amywork777/CuteGhostty) - Cute Ghostty - A cute customized Ghostty terminal emulator for macOS
 
@@ -1911,7 +1911,7 @@
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
-*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
+*   [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - A scalable social community platform powered by Gin backend and modern TypeScript/Vue frontend architecture
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
