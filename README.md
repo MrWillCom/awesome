@@ -2342,7 +2342,7 @@
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
-*   [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+*   [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 
 *   [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - \[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 
