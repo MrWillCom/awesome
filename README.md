@@ -59,7 +59,6 @@
 *   [AutoIt](#autoit)
 *   [V](#v)
 *   [Less](#less)
-*   [JSON](#json)
 *   [Vim script](#vim-script-1)
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
@@ -67,7 +66,7 @@
 
 ## TypeScript
 
-*   [CLCK0622/c2c-mcp](https://github.com/CLCK0622/c2c-mcp) -
+*   [CLCK0622/c2c-mcp](https://github.com/CLCK0622/c2c-mcp) - Connect your Claude Code instances. Let them talk to each other.
 
 *   [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) -
 
@@ -513,7 +512,7 @@
 
 *   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-*   [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav) - 🗺 A pure front-end development navigation
+*   [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav) - 🗺 A purely front-end development navigation
 
 *   [nodejs/corepack](https://github.com/nodejs/corepack) - Package manager version manager for Node.js projects
 
@@ -743,7 +742,7 @@
 
 *   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 
 *   [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 
@@ -2933,6 +2932,8 @@
 
 *   [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 
+*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 *   [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 
 ## Blade
@@ -3164,10 +3165,6 @@
 ## Less
 
 *   [haydenull/logseq-woz-theme](https://github.com/haydenull/logseq-woz-theme) - A theme base dev theme
-
-## JSON
-
-*   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Vim script
 
