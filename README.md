@@ -1010,8 +1010,6 @@
 
 *   [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 
-*   [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-
 *   [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 
 *   [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -1677,6 +1675,8 @@
 *   [shuding/labs](https://github.com/shuding/labs) - labs
 
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 
 ## Swift
 
