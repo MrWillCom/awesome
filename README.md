@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Python](#python)
-*   [Astro](#astro)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Typst](#typst)
@@ -64,6 +64,22 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 
+## Astro
+
+*   [haaarshsingh/www](https://github.com/haaarshsingh/www) - 👋
+
+*   [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
+
+*   [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
+
+*   [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
+
+*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
+
+*   [michael-andreuzza/oxbow](https://github.com/michael-andreuzza/oxbow) - Open Source Tailwind CSS & Alpine JS UI Blocks
+
+*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
+
 ## Swift
 
 *   [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
@@ -77,8 +93,6 @@
 *   [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) -
 
 *   [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
-
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 *   [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 
@@ -1418,22 +1432,6 @@
 
 *   [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 
-*   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
-
-## Astro
-
-*   [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
-
-*   [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-
-*   [markhorn-dev/astro-nano](https://github.com/markhorn-dev/astro-nano) - Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog.
-
-*   [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
-
-*   [michael-andreuzza/oxbow](https://github.com/michael-andreuzza/oxbow) - Open Source Tailwind CSS & Alpine JS UI Blocks
-
-*   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
-
 ## JavaScript
 
 *   [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -1445,6 +1443,8 @@
 *   [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 
 *   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
+
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 
