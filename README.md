@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [TypeScript](#typescript)
 *   [MDX](#mdx)
 *   [Astro](#astro)
@@ -42,7 +43,6 @@
 *   [TeX](#tex)
 *   [Ruby](#ruby)
 *   [Pug](#pug)
-*   [Zig](#zig)
 *   [PHP](#php)
 *   [Lua](#lua)
 *   [Vim Script](#vim-script)
@@ -63,6 +63,12 @@
 *   [ASL](#asl)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
+
+## Zig
+
+*   [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
+
+*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## TypeScript
 
@@ -1066,6 +1072,8 @@
 
 *   [Shpigford/chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.
 
+*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
 *   [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 
 *   [srimanachanta/Stasis](https://github.com/srimanachanta/Stasis) - Battery Management and Dashboard for Apple Silicon - A Better Battery Icon
@@ -1469,8 +1477,6 @@
 *   [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 
 *   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
-
-*   [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 
@@ -2748,8 +2754,6 @@
 
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-
 ## C\#
 
 *   [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
@@ -3053,10 +3057,6 @@
 ## Pug
 
 *   [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
-
-## Zig
-
-*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## PHP
 
