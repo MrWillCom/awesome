@@ -1328,7 +1328,7 @@
 
 *   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 
-*   [ChungZH/ChungZH.github.io](https://github.com/ChungZH/ChungZH.github.io) - 💎 My personal blog.
+*   [zirnc/ChungZH.github.io](https://github.com/zirnc/ChungZH.github.io) - 💎 My personal blog.
 
 ## miscellaneous
 
@@ -1548,7 +1548,7 @@
 
 *   [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
 
-*   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+*   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 
 *   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 
@@ -2546,7 +2546,7 @@
 
 *   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 
-*   [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+*   [zirnc/notepanda](https://github.com/zirnc/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
 
 *   [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 
@@ -3136,7 +3136,7 @@
 
 *   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 
-*   [ChungZH/peach](https://github.com/ChungZH/peach) - 🍑 A sweet Scoop bucket. | 你在想屁吃?
+*   [zirnc/peach](https://github.com/zirnc/peach) - 🍑 A sweet Scoop bucket. | 你在想屁吃?
 
 *   [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 
