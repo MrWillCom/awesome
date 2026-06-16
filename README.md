@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Elixir](#elixir)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [Python](#python)
@@ -28,7 +29,6 @@
 *   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Clojure](#clojure)
-*   [Elixir](#elixir)
 *   [CSS](#css)
 *   [Rich Text Format](#rich-text-format)
 *   [Markdown](#markdown)
@@ -64,7 +64,17 @@
 *   [Visual Basic .NET](#visual-basic-net)
 *   [CMake](#cmake)
 
+## Elixir
+
+*   [Phineas/lanyard](https://github.com/Phineas/lanyard) - 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds
+
+*   [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
+
+*   [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
+
 ## TypeScript
+
+*   [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 
 *   [kud/ink-ui](https://github.com/kud/ink-ui) - Opinionated design-system library for Ink CLIs — pre-styled components and design tokens for a consistent terminal UI.
 
@@ -2142,8 +2152,6 @@
 
 *   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
-*   [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
-
 ## Rust
 
 *   [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -2314,7 +2322,7 @@
 
 *   [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
 
-*   [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+*   [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
@@ -2559,8 +2567,6 @@
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 *   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [leihui6/marksentence](https://github.com/leihui6/marksentence) - 一个标记托福考试听力句子的工具（精听工具）
 
 ## Kotlin
 
@@ -2867,12 +2873,6 @@
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc\_ggEV
 
 *   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-
-## Elixir
-
-*   [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers
-
-*   [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## CSS
 
