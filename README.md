@@ -76,7 +76,7 @@
 
 *   [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 
-*   [kud/ink-ui](https://github.com/kud/ink-ui) - Opinionated design-system library for Ink CLIs — pre-styled components and design tokens for a consistent terminal UI.
+*   [kud/ink-ui](https://github.com/kud/ink-ui) - 🧱 Opinionated design system for Ink CLIs — pre-styled components and tokens for consistent TUIs
 
 *   [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 
@@ -1108,7 +1108,7 @@
 
 ## Python
 
-*   [MindReset/dot\_skill](https://github.com/MindReset/dot_skill) -
+*   [MindReset/dot\_skill](https://github.com/MindReset/dot_skill) - AI agent tools for the Dot platform: control device content, design Canvas layouts, and integrate through OpenAPI.
 
 *   [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 
