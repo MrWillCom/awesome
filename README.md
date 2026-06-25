@@ -906,7 +906,7 @@
 
 *   [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 
-*   [SumeLabs/clawra](https://github.com/SumeLabs/clawra) - Clawra - Openclaw as your companion
+*   [sumelabs/clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
@@ -1914,7 +1914,7 @@
 
 ## miscellaneous
 
-*   [Eplorr/LyricsBlossom](https://github.com/Eplorr/LyricsBlossom) - 迄今最完美的 Apple Music 歌词体验还原 · macOS & Windows · 逐词同步 · Skia GPU 加速 A universal Now Playing lyrics overlay for macOS & Windows — works with Spotify, Apple Music, and more. Pixel-perfect Apple Music visuals, GPU-accelerated with Skia.
+*   [Eplorr/LyricsBlossom](https://github.com/Eplorr/LyricsBlossom) - 迄今最完美的 Apple Music 歌词体验还原 · macOS & Windows · 逐词同步 · Skia GPU 加速 Pixel-perfect Apple Music visuals -- A universal Now Playing lyrics overlay for macOS & Windows — works with Spotify, Apple Music, and more. GPU-accelerated with Skia.
 
 *   [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) -
 
